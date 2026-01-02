@@ -1,265 +1,260 @@
 🕘️更新时间,#genre#
-2026-01-02 06:54:18,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
+2026-01-02 18:51:15,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
 
 ☘️央视频道,#genre#
 CCTV-1,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV-1,http://180.105.201.135:9981/rtp/239.49.8.19:9614
-CCTV-1,http://180.105.201.135:9981/rtp/239.49.8.129:6000
 CCTV-1,http://114.241.251.105:4022/rtp/239.3.1.129:8008
 CCTV-1,http://121.29.141.237:4022/rtp/239.253.92.83:8012
-CCTV-1,http://115.171.216.84:4000/rtp/225.1.8.33:8002
-CCTV-1,http://115.58.216.239:4000/rtp/225.1.4.73:1102
+CCTV-1,http://180.105.201.135:9981/rtp/239.49.8.129:6000
+CCTV-1,http://180.105.201.135:9981/rtp/239.49.8.19:9614
 CCTV-1,http://144.255.32.146:8288/udp/239.21.1.120:5002
-CCTV-1,http://113.119.25.53:58888/udp/239.77.1.144:5146
-CCTV-1,http://121.231.100.196:8095/rtp/239.49.8.129:6000
+CCTV-1,http://114.254.37.254:18888/rtp/239.3.1.129:8008
+CCTV-1,http://115.171.80.52:1688/rtp/225.1.8.81:8176
+CCTV-1,http://115.171.80.52:1688/rtp/225.1.8.33:8002
+CCTV-1,http://183.236.43.98:4013/udp/239.77.1.144:5146
 CCTV-2,http://114.241.251.105:4022/rtp/239.3.1.60:8084
 CCTV-2,http://121.29.141.237:4022/rtp/239.253.92.190:6065
 CCTV-2,http://183.236.43.98:4013/udp/239.77.1.158:5146
+CCTV-2,http://27.191.202.133:19999/rtp/239.254.200.158:6000
+CCTV-2,http://114.254.37.254:18888/rtp/239.3.1.60:8084
+CCTV-2,http://115.171.80.52:1688/rtp/225.1.8.2:8084
 CCTV-2,http://114.100.195.41:4022/rtp/238.1.78.235:7752
-CCTV-2,http://115.171.216.84:4000/rtp/225.1.8.2:8084
-CCTV-2,http://115.58.216.239:4000/rtp/225.1.4.74:1103
-CCTV-2,http://144.255.32.146:8288/udp/239.21.1.151:5002
-CCTV-2,http://114.107.44.80:8188/rtp/238.1.78.235:7752
-CCTV-2,http://113.119.25.53:58888/udp/239.77.1.158:5146
+CCTV-2,http://144.255.31.40:6688/udp/239.21.1.151:5002
 CCTV-2,http://111.113.88.146:2000/rtp/239.121.4.155:8914
-CCTV-3,http://183.236.43.98:4013/udp/239.77.0.169:5146
-CCTV-3,http://144.255.32.146:8288/udp/239.21.2.45:5002
-CCTV-3,http://114.241.251.105:4022/rtp/239.3.1.172:8001
-CCTV-3,http://115.58.216.239:4000/rtp/225.1.4.158:1194
-CCTV-3,http://113.119.25.53:58888/udp/239.77.0.169:5146
+CCTV-2,http://144.255.32.146:8288/udp/239.21.1.151:5002
 CCTV-3,http://121.29.141.237:4022/rtp/239.253.92.191:6057
-CCTV-3,http://27.191.202.133:19999/rtp/239.254.201.152:7205
+CCTV-3,http://144.255.32.146:8288/udp/239.21.2.45:5002
 CCTV-3,http://144.255.31.40:6688/udp/239.21.2.45:5002
-CCTV-3,http://115.171.216.84:4000/rtp/225.1.8.88:8000
-CCTV-3,http://114.254.37.254:18888/rtp/239.3.1.172:8001
-CCTV-4,http://121.29.141.237:4022/rtp/239.253.92.251:6141
-CCTV-4,http://111.162.204.64:8686/rtp/225.1.1.150:5002
+CCTV-3,http://113.119.25.53:58888/udp/239.77.0.169:5146
+CCTV-3,http://114.107.44.80:8188/rtp/238.1.78.170:7232
+CCTV-3,http://183.236.43.98:4013/udp/239.77.0.169:5146
+CCTV-3,http://27.191.202.133:19999/rtp/239.254.201.152:7205
+CCTV-3,http://223.198.242.180:4000/rtp/239.253.64.244:5140
+CCTV-3,http://114.241.251.105:4022/rtp/239.3.1.172:8001
+CCTV-3,http://114.100.195.41:4022/rtp/238.1.78.170:7232
 CCTV-4,http://114.241.251.105:4022/rtp/239.3.1.105:8092
+CCTV-4,http://121.29.141.237:4022/rtp/239.253.92.251:6141
 CCTV-4,http://113.119.25.53:58888/udp/239.77.1.163:5146
 CCTV-4,http://144.255.32.146:8288/udp/239.21.1.154:5002
-CCTV-4,http://114.100.195.41:4022/rtp/238.1.78.236:7760
-CCTV-4,http://115.58.216.239:4000/rtp/225.1.5.30:1333
+CCTV-4,http://114.254.37.254:18888/rtp/239.3.1.105:8092
 CCTV-4,http://144.255.32.146:8288/udp/239.21.2.29:5002
+CCTV-4,http://27.191.202.133:19999/rtp/239.254.200.190:6307
+CCTV-4,http://115.171.80.52:1688/rtp/225.1.8.4:8092
+CCTV-4,http://111.113.88.146:2000/rtp/239.121.4.134:8786
 CCTV-4,http://144.255.31.40:6688/udp/239.21.2.29:5002
-CCTV-4,http://144.255.31.40:6688/udp/239.21.1.154:5002
-CCTV-5,http://111.162.204.64:8686/rtp/225.1.1.160:5002
-CCTV-5,http://183.236.43.98:4013/udp/239.77.0.170:5146
-CCTV-5,http://144.255.32.146:8288/udp/239.21.2.46:5002
-CCTV-5,http://115.58.216.239:4000/rtp/225.1.4.159:1195
-CCTV-5,http://114.241.251.105:4022/rtp/239.3.1.173:8001
-CCTV-5,http://113.119.25.53:58888/udp/239.77.0.170:5146
 CCTV-5,http://121.29.141.237:4022/rtp/239.253.92.181:6046
+CCTV-5,http://144.255.32.146:8288/udp/239.21.2.46:5002
 CCTV-5,http://114.107.44.80:8188/rtp/238.1.78.171:7240
-CCTV-5,http://27.191.202.133:19999/rtp/239.254.201.153:7206
+CCTV-5,http://183.236.43.98:4013/udp/239.77.0.170:5146
+CCTV-5,http://113.119.25.53:58888/udp/239.77.0.170:5146
 CCTV-5,http://144.255.31.40:6688/udp/239.21.2.46:5002
+CCTV-5,http://27.191.202.133:19999/rtp/239.254.201.153:7206
+CCTV-5,http://114.241.251.105:4022/rtp/239.3.1.173:8001
+CCTV-5,http://114.254.37.254:18888/rtp/239.3.1.173:8001
+CCTV-5,http://220.176.218.76:9000/udp/239.252.219.198:5140
 CCTV-5+,http://113.119.25.53:58888/udp/239.77.1.31:5146
 CCTV-5+,http://114.241.251.105:4022/rtp/239.3.1.130:8004
-CCTV-5+,http://113.119.25.53:58888/udp/239.77.0.87:5146
-CCTV-5+,http://144.255.32.146:8288/udp/239.21.1.142:5002
-CCTV-5+,http://115.58.216.239:4000/rtp/225.1.4.75:1104
-CCTV-5+,http://115.171.216.84:4000/rtp/225.1.8.20:8004
-CCTV-5+,http://114.100.195.41:4022/rtp/238.1.78.237:7768
-CCTV-5+,http://180.105.201.135:9981/rtp/239.49.8.18:9610
 CCTV-5+,http://121.29.141.237:4022/rtp/239.253.92.82:8013
-CCTV-5+,http://121.231.100.196:8095/rtp/239.49.8.18:9610
+CCTV-5+,http://144.255.32.146:8288/udp/239.21.1.142:5002
+CCTV-5+,http://113.119.25.53:58888/udp/239.77.0.87:5146
+CCTV-5+,http://114.254.37.254:18888/rtp/239.3.1.130:8004
+CCTV-5+,http://114.100.195.41:4022/rtp/238.1.78.237:7768
+CCTV-5+,http://27.191.202.133:19999/rtp/239.254.200.46:8004
+CCTV-5+,http://114.107.44.80:8188/rtp/238.1.78.237:7768
+CCTV-5+,http://180.105.201.135:9981/rtp/239.49.8.18:9610
 CCTV-6,http://121.29.141.237:4022/rtp/239.253.92.193:6058
-CCTV-6,http://111.162.204.64:8686/rtp/225.1.1.195:5002
-CCTV-6,http://183.236.43.98:4013/udp/239.77.0.171:5146
+CCTV-6,http://144.255.31.40:6688/udp/239.21.2.47:5002
 CCTV-6,http://144.255.32.146:8288/udp/239.21.2.47:5002
-CCTV-6,http://115.58.216.239:4000/rtp/225.1.4.160:1196
-CCTV-6,http://115.171.80.52:1688/rtp/225.1.8.84:8000
-CCTV-6,http://114.100.195.41:4022/rtp/238.1.78.172:7248
 CCTV-6,http://113.119.25.53:58888/udp/239.77.0.171:5146
-CCTV-6,http://27.191.202.133:19999/rtp/239.254.201.154:7207
 CCTV-6,http://114.107.44.80:8188/rtp/238.1.78.172:7248
+CCTV-6,http://114.100.195.41:4022/rtp/238.1.78.172:7248
+CCTV-6,http://27.191.202.133:19999/rtp/239.254.201.154:7207
+CCTV-6,http://223.198.242.180:4000/rtp/239.253.64.246:5140
+CCTV-6,http://111.113.88.146:2000/rtp/239.121.4.153:8902
+CCTV-6,http://114.254.37.254:18888/rtp/239.3.1.174:8001
 CCTV-7,http://121.29.141.237:4022/rtp/239.253.92.194:6059
-CCTV-7,http://183.236.43.98:4013/udp/239.77.0.138:5146
-CCTV-7,http://115.58.216.239:4000/rtp/225.1.4.76:1105
-CCTV-7,http://27.191.202.133:19999/rtp/239.254.200.159:6000
-CCTV-7,http://114.107.44.80:8188/rtp/238.1.78.239:7784
-CCTV-7,http://113.119.25.53:58888/udp/239.77.0.138:5146
-CCTV-7,http://114.100.195.41:4022/rtp/238.1.78.239:7784
-CCTV-7,http://144.255.32.146:8288/udp/239.21.1.152:5002
-CCTV-7,http://114.254.37.254:18888/rtp/239.3.1.61:8104
 CCTV-7,http://144.255.31.40:6688/udp/239.21.1.152:5002
+CCTV-7,http://183.236.43.98:4013/udp/239.77.0.138:5146
+CCTV-7,http://114.107.44.80:8188/rtp/238.1.78.239:7784
+CCTV-7,http://114.100.195.41:4022/rtp/238.1.78.239:7784
+CCTV-7,http://27.191.202.133:19999/rtp/239.254.200.159:6000
+CCTV-7,http://114.254.37.254:18888/rtp/239.3.1.61:8104
+CCTV-7,http://223.198.242.180:4000/rtp/239.253.64.54:5140
+CCTV-7,http://113.119.25.53:58888/udp/239.77.0.138:5146
+CCTV-7,http://144.255.32.146:8288/udp/239.21.1.152:5002
 CCTV-8,http://111.162.204.64:8686/rtp/225.1.1.196:5002
 CCTV-8,http://121.29.141.237:4022/rtp/239.253.92.195:6060
 CCTV-8,http://183.236.43.98:4013/udp/239.77.0.172:5146
-CCTV-8,http://144.255.32.146:8288/udp/239.21.2.48:5002
-CCTV-8,http://114.107.44.80:8188/rtp/238.1.78.173:7256
 CCTV-8,http://113.119.25.53:58888/udp/239.77.0.172:5146
-CCTV-8,http://115.58.216.239:4000/rtp/225.1.4.161:1197
+CCTV-8,http://144.255.32.146:8288/udp/239.21.2.48:5002
 CCTV-8,http://114.100.195.41:4022/rtp/238.1.78.173:7256
 CCTV-8,http://27.191.202.133:19999/rtp/239.254.201.155:7208
+CCTV-8,http://223.198.242.180:4000/rtp/239.253.64.247:5140
 CCTV-8,http://144.255.31.40:6688/udp/239.21.2.48:5002
+CCTV-8,http://114.254.37.254:18888/rtp/239.3.1.175:8001
 CCTV-9,http://111.162.204.64:8686/rtp/225.1.1.119:5002
 CCTV-9,http://121.29.141.237:4022/rtp/239.253.92.107:6020
-CCTV-9,http://115.58.216.239:4000/rtp/225.1.4.77:1106
-CCTV-9,http://144.255.32.146:8288/udp/239.21.1.153:5002
 CCTV-9,http://183.236.43.98:4013/udp/239.77.0.135:5146
-CCTV-9,http://111.113.88.146:2000/rtp/239.121.4.157:8926
-CCTV-9,http://114.100.195.41:4022/rtp/238.1.78.240:7792
-CCTV-9,http://113.119.25.53:58888/udp/239.77.0.135:5146
+CCTV-9,http://144.255.32.146:8288/udp/239.21.1.153:5002
 CCTV-9,http://144.255.31.40:6688/udp/239.21.1.153:5002
 CCTV-9,http://114.254.37.254:18888/rtp/239.3.1.62:8112
-CCTV-10,http://144.255.32.146:8288/udp/239.21.1.155:5002
+CCTV-9,http://27.191.202.133:19999/rtp/239.254.200.59:8112
+CCTV-9,http://111.113.88.146:2000/rtp/239.121.4.157:8926
+CCTV-9,http://220.176.218.76:9000/udp/239.252.220.186:5140
+CCTV-9,http://115.171.80.52:1688/rtp/225.1.8.9:8112
 CCTV-10,http://121.29.141.237:4022/rtp/239.253.92.196:6061
 CCTV-10,http://113.119.25.53:58888/udp/239.77.0.134:5146
-CCTV-10,http://115.171.216.84:4000/rtp/225.1.8.10:8116
-CCTV-10,http://115.58.216.239:4000/rtp/225.1.4.78:1107
-CCTV-10,http://180.105.201.135:9981/rtp/239.49.8.54:9818
-CCTV-10,http://114.254.37.254:18888/rtp/239.3.1.63:8116
-CCTV-10,http://114.107.44.80:8188/rtp/238.1.78.241:7800
-CCTV-10,http://115.171.80.52:1688/rtp/225.1.8.10:8116
 CCTV-10,http://114.100.195.41:4022/rtp/238.1.78.241:7800
+CCTV-10,http://144.255.31.40:6688/udp/239.21.1.155:5002
+CCTV-10,http://114.107.44.80:8188/rtp/238.1.78.241:7800
+CCTV-10,http://27.191.202.133:19999/rtp/239.254.200.160:6000
+CCTV-10,http://115.171.80.52:1688/rtp/225.1.8.10:8116
+CCTV-10,http://111.113.88.146:2000/rtp/239.121.4.158:8932
+CCTV-10,http://223.198.242.180:4000/rtp/239.253.64.87:5140
+CCTV-10,http://114.254.37.254:18888/rtp/239.3.1.63:8116
 CCTV-11,http://114.241.251.105:4022/rtp/239.3.1.152:8120
 CCTV-11,http://121.29.141.237:4022/rtp/239.253.93.153:6321
 CCTV-11,http://144.255.32.146:8288/udp/239.21.2.2:5002
-CCTV-11,http://115.58.216.239:4000/rtp/225.1.4.215:1268
-CCTV-11,http://114.100.195.41:4022/rtp/238.1.78.206:7502
+CCTV-11,http://113.119.25.53:58888/udp/239.77.1.238:5146
 CCTV-11,http://114.107.44.80:8188/rtp/238.1.78.206:7502
+CCTV-11,http://114.100.195.41:4022/rtp/238.1.78.206:7502
 CCTV-11,http://27.191.202.133:19999/rtp/239.254.201.123:8120
 CCTV-11,http://111.113.88.146:2000/rtp/239.121.4.150:9202
-CCTV-11,http://36.46.98.111:8025/rtp/239.112.205.213:5140
 CCTV-11,http://223.198.242.180:4000/rtp/239.253.64.70:5140
-CCTV-12,http://121.29.141.237:4022/rtp/239.253.92.197:6062
+CCTV-11,http://115.171.80.52:1688/rtp/225.1.8.73:8120
 CCTV-12,http://114.241.251.105:4022/rtp/239.3.1.64:8124
+CCTV-12,http://121.29.141.237:4022/rtp/239.253.92.197:6062
 CCTV-12,http://144.255.32.146:8288/udp/239.21.1.156:5002
-CCTV-12,http://115.58.216.239:4000/rtp/225.1.4.79:1108
-CCTV-12,http://180.105.201.135:9981/rtp/239.49.8.55:9822
-CCTV-12,http://180.105.201.135:9981/rtp/239.49.8.135:6000
-CCTV-12,http://121.231.100.196:8095/rtp/239.49.8.135:6000
+CCTV-12,http://144.255.31.40:6688/udp/239.21.1.156:5002
+CCTV-12,http://113.119.25.53:58888/udp/239.77.0.136:5146
+CCTV-12,http://114.254.37.254:18888/rtp/239.3.1.64:8124
+CCTV-12,http://115.171.80.52:1688/rtp/225.1.8.12:8124
 CCTV-12,http://114.107.44.80:8188/rtp/238.1.78.242:7808
 CCTV-12,http://27.191.202.133:19999/rtp/239.254.200.161:6000
-CCTV-12,http://144.255.31.40:6688/udp/239.21.1.156:5002
-CCTV-13,http://111.162.204.64:8686/rtp/225.1.2.193:5002
+CCTV-12,http://180.105.201.135:9981/rtp/239.49.8.135:6000
 CCTV-13,http://114.241.251.105:4022/rtp/239.3.1.124:8128
 CCTV-13,http://183.236.43.98:4013/udp/239.253.43.196:5146
-CCTV-13,http://115.58.216.239:4000/rtp/225.1.4.113:1293
 CCTV-13,http://121.29.141.237:4022/rtp/239.253.92.13:8008
-CCTV-13,http://144.255.31.40:6688/udp/239.21.2.3:5002
-CCTV-13,http://220.176.218.76:9000/udp/239.252.219.139:5140
+CCTV-13,http://113.119.25.53:58888/udp/239.253.43.196:5146
+CCTV-13,http://144.255.32.146:8288/udp/239.21.2.3:5002
 CCTV-13,http://114.100.195.41:4022/rtp/238.1.79.35:4392
+CCTV-13,http://27.191.202.133:19999/rtp/239.254.200.9:8264
 CCTV-13,http://223.198.242.180:4000/rtp/239.253.64.59:5140
+CCTV-13,http://144.255.31.40:6688/udp/239.21.2.3:5002
 CCTV-13,http://114.107.44.80:8188/rtp/238.1.79.35:4392
-CCTV-14,http://121.29.141.237:4022/rtp/239.253.92.198:6063
-CCTV-14,http://115.58.216.239:4000/rtp/225.1.4.80:1109
 CCTV-14,http://114.241.251.105:4022/rtp/239.3.1.65:8132
-CCTV-14,http://114.254.37.254:18888/rtp/239.3.1.65:8132
-CCTV-14,http://180.105.201.135:9981/rtp/239.49.8.136:6000
-CCTV-14,http://180.105.201.135:9981/rtp/239.49.8.56:9826
-CCTV-14,http://144.255.31.40:6688/udp/239.21.1.157:5002
-CCTV-14,http://220.176.218.76:9000/udp/239.252.220.92:5140
-CCTV-14,http://36.46.98.111:8025/rtp/239.112.205.91:5140
+CCTV-14,http://121.29.141.237:4022/rtp/239.253.92.198:6063
 CCTV-14,http://113.119.25.53:58888/udp/239.77.1.161:5146
-CCTV-15,http://111.162.204.64:8686/rtp/225.1.2.194:5002
-CCTV-15,http://114.241.251.105:4022/rtp/239.3.1.153:8136
-CCTV-15,http://113.119.25.53:58888/udp/239.77.1.239:5146
-CCTV-15,http://115.58.216.239:4000/rtp/225.1.4.216:1269
-CCTV-15,http://114.107.44.80:8188/rtp/238.1.78.222:7648
+CCTV-14,http://144.255.31.40:6688/udp/239.21.1.157:5002
+CCTV-14,http://114.254.37.254:18888/rtp/239.3.1.65:8132
+CCTV-14,http://223.198.242.180:4000/rtp/239.253.64.115:5140
+CCTV-14,http://27.191.202.133:19999/rtp/239.254.200.162:6000
+CCTV-14,http://114.107.44.80:8188/rtp/238.1.78.243:7816
+CCTV-14,http://36.46.98.111:8025/rtp/239.112.205.91:5140
+CCTV-14,http://115.171.80.52:1688/rtp/225.1.8.14:8132
 CCTV-15,http://121.29.141.237:4022/rtp/239.253.93.154:6322
+CCTV-15,http://114.241.251.105:4022/rtp/239.3.1.153:8136
 CCTV-15,http://36.46.98.111:8025/rtp/239.112.205.214:5140
-CCTV-15,http://220.176.218.76:9000/udp/239.252.219.79:5140
+CCTV-15,http://111.113.88.146:2000/rtp/239.121.4.202:9208
 CCTV-15,http://114.254.37.254:18888/rtp/239.3.1.153:8136
+CCTV-15,http://114.107.44.80:8188/rtp/238.1.78.222:7648
+CCTV-15,http://220.176.218.76:9000/udp/239.252.219.79:5140
+CCTV-15,http://106.59.2.207:55555/rtp/239.200.201.112:8496
+CCTV-15,http://111.162.204.64:8686/rtp/225.1.2.194:5002
 CCTV-15,http://223.198.242.180:4000/rtp/239.253.64.72:5140
-CCTV-16,http://111.162.204.64:8686/rtp/225.1.2.237:5002
-CCTV-16,http://113.119.25.53:58888/udp/239.77.0.165:5146
 CCTV-16,http://114.241.251.105:4022/rtp/239.3.1.184:8001
-CCTV-16,http://36.46.98.111:8025/rtp/239.111.205.134:5140
-CCTV-16,http://223.198.242.180:4000/rtp/239.253.64.126:5140
-CCTV-16,http://223.198.242.180:4000/rtp/239.253.64.251:5140
 CCTV-16,http://106.59.2.207:55555/rtp/239.200.200.193:8776
+CCTV-16,http://106.59.2.153:55555/rtp/239.200.200.193:8776
+CCTV-16,http://223.198.242.180:4000/rtp/239.253.64.126:5140
+CCTV-16,http://113.119.25.53:58888/udp/239.77.0.165:5146
+CCTV-16,http://223.198.242.180:4000/rtp/239.253.64.251:5140
+CCTV-16,http://111.162.204.64:8686/rtp/225.1.2.237:5002
 CCTV-16,http://220.176.218.76:9000/udp/239.252.220.237:5140
 CCTV-16,http://111.113.88.146:2000/rtp/239.121.4.122:8008
-CCTV-16,http://106.59.2.153:55555/rtp/239.200.200.193:8776
-CCTV-17,http://111.162.204.64:8686/rtp/225.1.2.52:5002
 CCTV-17,http://121.29.141.237:4022/rtp/239.253.93.150:6318
-CCTV-17,http://115.58.216.239:4000/rtp/225.1.4.226:2506
-CCTV-17,http://180.105.201.135:9981/rtp/239.49.8.132:6000
-CCTV-17,http://121.231.100.196:8095/rtp/239.49.8.52:9810
-CCTV-17,http://114.107.44.80:8188/rtp/238.1.78.178:7296
 CCTV-17,http://180.105.201.135:9981/rtp/239.49.8.52:9810
-CCTV-17,http://27.191.202.133:19999/rtp/239.254.201.120:8144
-CCTV-17,http://223.198.242.180:4000/rtp/239.253.64.67:5140
+CCTV-17,http://180.105.201.135:9981/rtp/239.49.8.132:6000
 CCTV-17,http://36.46.98.111:8025/rtp/239.112.205.211:5140
+CCTV-17,http://144.255.31.40:6688/udp/239.21.1.186:5002
+CCTV-17,http://223.198.242.180:4000/rtp/239.253.64.67:5140
+CCTV-17,http://220.176.218.76:9000/udp/239.252.220.192:5140
+CCTV-17,http://114.254.37.254:18888/rtp/239.3.1.151:8144
+CCTV-17,http://115.171.80.52:1688/rtp/225.1.8.17:8144
+CCTV-17,http://113.119.25.53:58888/udp/239.77.1.121:5146
 CCTV-4K,http://121.29.141.237:4022/rtp/239.253.93.134:6631
-CCTV-4K,http://220.176.218.76:9000/rtp/239.252.219.60:5140
-CCTV-4K,http://106.59.2.207:55555/rtp/239.200.200.202:8784
 CCTV-4K,http://114.100.195.41:4022/rtp/238.1.78.137:6968
 CCTV-4K,http://106.59.2.153:55555/rtp/239.200.200.202:8784
+CCTV-4K,http://220.176.218.76:9000/rtp/239.252.219.60:5140
 CCTV-4K,http://114.107.44.80:8188/rtp/238.1.78.137:6968
 CCTV-4K,http://183.236.43.98:4013/udp/239.77.0.194:5146
-CHC动作电影,http://115.58.216.239:4000/rtp/225.1.4.208:1261
 CHC动作电影,http://220.176.218.76:9000/udp/239.252.219.85:5140
 CHC家庭影院,http://111.162.204.64:8686/rtp/225.1.1.213:5002
-CHC家庭影院,http://115.58.216.239:4000/rtp/225.1.4.209:1262
-CHC家庭影院,http://220.176.218.76:9000/udp/239.252.219.84:5140
 CHC家庭影院,http://106.59.2.207:55555/rtp/239.200.201.30:8140
-CHC影迷电影,http://115.58.216.239:4000/rtp/225.1.4.207:1260
-CHC影迷电影,http://220.176.218.76:9000/udp/239.252.219.83:5140
+CHC家庭影院,http://220.176.218.76:9000/udp/239.252.219.84:5140
 CHC影迷电影,http://106.59.2.153:55555/rtp/239.200.201.34:8148
+CHC影迷电影,http://220.176.218.76:9000/udp/239.252.219.83:5140
 
 ☘️卫视频道,#genre#
-浙江卫视,http://183.236.43.98:4013/udp/239.77.1.33:5146
-浙江卫视,http://114.241.251.105:4022/rtp/239.3.1.137:8036
-浙江卫视,http://115.58.216.239:4000/rtp/225.1.4.84:1113
-浙江卫视,http://113.119.25.53:58888/udp/239.77.1.33:5146
-浙江卫视,http://27.191.202.133:19999/rtp/239.254.200.53:8036
-浙江卫视,http://180.105.201.135:9981/rtp/239.49.8.139:6000
 浙江卫视,http://180.105.201.135:9981/rtp/239.49.8.20:9618
-浙江卫视,http://144.255.31.40:6688/udp/239.21.1.90:5002
 浙江卫视,http://121.29.141.237:4022/rtp/239.253.92.90:8020
+浙江卫视,http://180.105.201.135:9981/rtp/239.49.8.139:6000
+浙江卫视,http://114.241.251.105:4022/rtp/239.3.1.137:8036
+浙江卫视,http://144.255.31.40:6688/udp/239.21.1.90:5002
+浙江卫视,http://106.59.2.207:55555/udp/239.200.200.141:8724
+浙江卫视,http://36.46.98.111:8025/rtp/239.112.205.64:5140
+浙江卫视,http://115.171.80.52:1688/udp/225.1.8.46:8036
 浙江卫视,http://114.107.44.80:8188/rtp/238.1.78.164:7184
-湖南卫视,http://111.162.204.64:8686/rtp/225.1.1.114:5002
-湖南卫视,http://113.119.25.53:58888/udp/239.77.1.5:5146
-湖南卫视,http://144.255.32.146:8288/udp/239.21.1.158:5002
-湖南卫视,http://183.236.43.98:4013/udp/239.77.1.5:5146
-湖南卫视,http://180.105.201.135:9981/rtp/239.49.8.12:9418
+浙江卫视,http://113.119.25.53:58888/udp/239.77.1.33:5146
 湖南卫视,http://114.241.251.105:4022/rtp/239.3.1.132:8012
+湖南卫视,http://121.29.141.237:4022/rtp/239.253.92.84:8015
+湖南卫视,http://144.255.32.146:8288/udp/239.21.1.158:5002
 湖南卫视,http://180.105.201.135:9981/rtp/239.49.8.142:6000
-湖南卫视,http://121.231.100.196:8095/rtp/239.49.8.142:6000
-湖南卫视,http://115.58.216.239:4000/rtp/225.1.4.82:1111
-湖南卫视,http://114.100.195.41:4022/rtp/238.1.78.160:7152
+湖南卫视,http://180.105.201.135:9981/rtp/239.49.8.12:9418
+湖南卫视,http://36.46.98.111:8025/rtp/239.112.205.62:5140
+湖南卫视,http://111.162.204.64:8686/rtp/225.1.1.114:5002
+湖南卫视,http://106.59.2.153:55555/rtp/239.200.200.6:8012
+湖南卫视,http://27.191.202.133:19999/rtp/239.254.200.48:8012
+湖南卫视,http://144.255.31.40:6688/udp/239.21.1.158:5002
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-北京卫视,http://183.236.43.98:4013/udp/239.77.1.151:5146
-北京卫视,http://180.105.201.135:9981/rtp/239.49.8.11:9414
 北京卫视,http://111.162.204.64:8686/rtp/225.1.1.113:5002
-北京卫视,http://180.105.201.135:9981/rtp/239.49.8.141:6000
-北京卫视,http://183.236.43.98:4013/udp/239.77.1.4:5146
-北京卫视,http://115.58.216.239:4000/rtp/225.1.4.81:1110
+北京卫视,http://180.105.201.135:9981/rtp/239.49.8.11:9414
 北京卫视,http://121.29.141.237:4022/rtp/239.253.92.87:8014
-北京卫视,http://144.255.31.40:6688/udp/239.21.1.88:5002
+北京卫视,http://180.105.201.135:9981/rtp/239.49.8.141:6000
 北京卫视,http://114.241.251.105:4022/rtp/239.3.1.241:8000
-东方卫视,http://121.29.141.237:4022/rtp/239.253.92.89:8019
-东方卫视,http://111.162.204.64:8686/rtp/225.1.2.31:5002
-东方卫视,http://183.236.43.98:4013/udp/239.77.1.218:5146
-东方卫视,http://115.58.216.239:4000/rtp/225.1.4.85:1114
+北京卫视,http://36.46.98.111:8025/rtp/239.112.205.65:5140
+北京卫视,http://106.59.2.153:55555/rtp/239.200.200.5:8024
+北京卫视,http://113.119.25.53:58888/udp/239.77.1.151:5146
+北京卫视,http://114.254.37.254:18888/rtp/239.3.1.241:8000
 东方卫视,http://114.241.251.105:4022/rtp/239.3.1.136:8032
+东方卫视,http://121.29.141.237:4022/rtp/239.253.92.89:8019
 东方卫视,http://144.255.32.146:8288/udp/239.21.1.111:5002
-东方卫视,http://180.105.201.135:9981/rtp/239.49.8.17:9606
 东方卫视,http://180.105.201.135:9981/rtp/239.49.8.140:6000
-东方卫视,http://121.231.100.196:8095/rtp/239.49.8.140:6000
-东方卫视,http://121.231.100.196:8095/rtp/239.49.8.17:9606
-江苏卫视,http://121.29.141.237:4022/rtp/239.253.92.88:8018
+东方卫视,http://180.105.201.135:9981/rtp/239.49.8.17:9606
+东方卫视,http://36.46.98.111:8025/rtp/239.112.205.61:5140
+东方卫视,http://106.59.2.153:55555/udp/239.200.200.8:8032
+东方卫视,http://106.59.2.207:55555/udp/239.200.200.8:8032
+东方卫视,http://114.254.37.254:18888/rtp/239.3.1.136:8032
+东方卫视,http://114.100.195.41:4022/rtp/238.1.78.163:7176
 江苏卫视,http://180.105.201.135:9981/rtp/239.49.8.138:6000
-江苏卫视,http://114.241.251.105:4022/rtp/239.3.1.135:8028
+江苏卫视,http://121.29.141.237:4022/rtp/239.253.92.88:8018
 江苏卫视,http://180.105.201.135:9981/rtp/239.49.8.16:9602
 江苏卫视,http://144.255.32.146:8288/udp/239.21.1.89:5002
-江苏卫视,http://115.58.216.239:4000/rtp/225.1.4.83:1112
-江苏卫视,http://223.198.242.180:4000/rtp/239.253.64.202:5140
+江苏卫视,http://114.241.251.105:4022/rtp/239.3.1.135:8028
 江苏卫视,http://36.46.98.111:8025/rtp/239.112.205.63:5140
-江苏卫视,http://27.191.202.133:19999/rtp/239.254.200.51:8028
+江苏卫视,http://114.254.37.254:18888/rtp/239.3.1.135:8028
+江苏卫视,http://114.107.44.80:8188/rtp/238.1.78.165:7192
 江苏卫视,http://114.100.195.41:4022/rtp/238.1.78.165:7192
+江苏卫视,http://220.176.218.76:9000/udp/239.252.219.214:5140
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-深圳卫视,http://183.236.43.98:4013/udp/239.77.0.130:5146
-深圳卫视,http://114.241.251.105:4022/rtp/239.3.1.134:8020
-深圳卫视,http://144.255.32.146:8288/udp/239.21.1.93:5002
-深圳卫视,http://115.58.216.239:4000/rtp/225.1.4.90:1119
-深圳卫视,http://180.105.201.135:9981/rtp/239.49.8.15:9430
 深圳卫视,http://121.29.141.237:4022/rtp/239.253.92.86:8017
+深圳卫视,http://144.255.32.146:8288/udp/239.21.1.93:5002
+深圳卫视,http://114.241.251.105:4022/rtp/239.3.1.134:8020
+深圳卫视,http://180.105.201.135:9981/rtp/239.49.8.15:9430
 深圳卫视,http://180.105.201.135:9981/rtp/239.49.8.145:6000
-深圳卫视,http://223.198.242.180:4000/rtp/239.253.64.203:5140
 深圳卫视,http://36.46.98.111:8025/rtp/239.112.205.67:5140
+深圳卫视,http://106.59.2.153:55555/rtp/239.200.200.67:8776
+深圳卫视,http://113.119.25.53:58888/udp/239.77.1.3:5146
+深圳卫视,http://223.198.242.180:4000/rtp/239.253.64.203:5140
 
 ☘️台湾频道,#genre#
 镜电视新闻台,https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8?token=tmxk
@@ -392,7 +387,6 @@ HGTV,https://jmp2.uk/sam-IT900003FU.m3u8
 HGTV,https://hilay.tv/l/hgtv
 HGTV,https://jmp2.uk/stvp-IT900003FU
 Kaloopy TV,https://hilay.tv/l/kaloopy
-Miami TV Mexico (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 ☘️国际频道,#genre#
@@ -404,6 +398,7 @@ ABC News Live,https://jmp2.uk/stvp-USBC39000171G
 ABC News Live,https://a1xs.vip/300016
 ABC News Live,https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=a80d0869-c6c0-4efc-ad81-24f330067c1b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 ABC News Live,https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=7a332caa-d09c-4d54-99bd-3999017a5953&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+ABC News Live,https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=b6f34c80-d40b-49b4-a16d-ad7553e63c32&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 LiveNOW from FOX,https://jmp2.uk/USBA300024TN
 LiveNOW from FOX,https://jmp2.uk/sam-USBA300024TN.m3u8
 LiveNOW from FOX,https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
@@ -422,6 +417,7 @@ BBC News,https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
 BBC News,https://jmp2.uk/stvp-US4000033L
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:20d5fee1-599d-4c64-9a01-90e3bb40e765&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:66fd32df-87b2-4838-80de-3ad0c57d99ee&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:d3bab00a-2946-433f-a5c7-54e0b11bb7e5&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 CNN International,https://hilay.tv/l/cnninternational
 Sky News,https://jmp2.uk/GB3300002NF
 Sky News,https://jmp2.uk/USBB52000022Q
@@ -444,6 +440,7 @@ The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist
 The NBA Channel,https://jmp2.uk/stvp-CA36000019W
 The NBA Channel,https://jmp2.uk/stvp-US3600003R7
 The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=abceb77c-34c6-486a-be08-5ea11f7f9344&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+The NBA Channel,https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=537de28c-e78c-4ec9-b79a-3bb621541d31&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Swerve Combat,https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 Swerve Combat,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8
 Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=65923944-fdf8-4dbd-b5a3-d1fe13dcb402&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -452,6 +449,7 @@ Swerve Combat,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f7
 Swerve Combat,https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902.m3u8
 Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=d0aed350-8ce4-4d26-b9fc-f34bae1978f5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=a37fc343-ef37-4ae3-9f02-41dd70782142&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+Swerve Combat,https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=bedc6a06-a910-4291-9188-6a11f81c854a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 PFL MMA,https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 PFL MMA,https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
 PFL MMA,https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8
@@ -491,6 +489,7 @@ Scares by Shudder,https://jmp2.uk/rok-349e0f0840cf21b888bff327b41a2413.m3u8
 Scares by Shudder,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
 Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=3d1b1caa-d378-4951-8a48-768ad62f2942&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=bd01be5c-ac99-40a6-9434-889ee72ed3df&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+Scares by Shudder,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=9a3e31b5-8749-4aad-958c-438edf9bff49&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Hallmark Movies & More,https://jmp2.uk/USBD270001633
 Hallmark Movies & More,https://jmp2.uk/sam-USBD270001633.m3u8
 Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM02QOKQFXPYNY/25229911/master.m3u8
@@ -500,15 +499,18 @@ Hallmark Movies & More,https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 Hallmark Movies & More,https://stitcher.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM0CNY3QGHUMCI/28618844/master.m3u8
 Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM0XZAVDYLQKM3/25241068/master.m3u8
+Hallmark Movies & More,https://live-content.xumo.com/2777/content/XM01NAZN5H5NPP/28004413/master.m3u8
 MovieSphere by Lionsgate,https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 MovieSphere by Lionsgate,https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=dd830946-0228-4a82-a2f7-eb91da558176&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=6893ee49-5367-4554-8345-77854edfadcb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=f4379b4b-91ee-43a5-891e-d883f0b184d6&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+MovieSphere by Lionsgate,https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=9dc5c93d-0670-438e-a319-db71aa23b0b2&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=bd963c70-a442-4508-8525-880fd92d8c55&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 Hi-Yah!,https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
 Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=8948b280-0065-4679-8a99-ae9d67869579&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=b2626704-9dc7-460d-be34-5de804c908f4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+Hi-Yah!,https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=7a7bb007-b56e-4b94-bfb0-65ebf2a912e3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 Shades of Black,https://jmp2.uk/USBC1000004G8
 Shades of Black,https://jmp2.uk/sam-USBC1000004G8.m3u8
 Shades of Black,https://jmp2.uk/plu-63920159db0dea0007dd9932.m3u8
@@ -518,7 +520,7 @@ Shades of Black,https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a1421f114554261d
 Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
 Shades of Black,https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=742cd0ae-7b1a-41dc-89cd-1e4e4003b246&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 Shades of Black,https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=dcb681f5-a513-49de-a7c7-37160b912681&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Shades of Black,https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=9d49be60-ee7f-41e0-8070-f398c9951a33&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 BTV Киска (+18),http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14003/index.m3u8
 
 俄语频道,#genre#
@@ -706,7 +708,6 @@ PORNBOX: BANG BROS NETWORK,http://tvmate.icu:8080/60023165/94429242/159960
 PORNBOX: BANG BROS NETWORK,http://tvmate.icu:8080/C4Ft1d/042942/159960
 PORNBOX: BIPHORIA,http://tvmate.icu:8080/60023165/94429242/159961
 PORNBOX: BLACKED,http://tvmate.icu:8080/60023165/94429242/159962
-PORNBOX: BLACKED,http://tvmate.icu:8080/C4Ft1d/042942/159962
 PORNBOX: BLOW ME POV,http://tvmate.icu:8080/60023165/94429242/159963
 PORNBOX: BOX OF PORN,http://tvmate.icu:8080/60023165/94429242/159964
 PORNBOX: BOX OF PORN,http://tvmate.icu:8080/C4Ft1d/042942/159964
@@ -780,20 +781,20 @@ PORNBOX: MOM TEACH SEX,http://tvmate.icu:8080/60023165/94429242/160013
 PORNBOX: MOM XXX,http://tvmate.icu:8080/60023165/94429242/160014
 PORNBOX: MOM XXX,http://tvmate.icu:8080/C4Ft1d/042942/160014
 PORNBOX: MOMMY BLOWS BEST,http://tvmate.icu:8080/60023165/94429242/160015
-PORNBOX: MUST NOT FAP,http://tvmate.icu:8080/C4Ft1d/042942/160016
 PORNBOX: MUST NOT FAP,http://tvmate.icu:8080/60023165/94429242/160016
+PORNBOX: MUST NOT FAP,http://tvmate.icu:8080/C4Ft1d/042942/160016
 PORNBOX: MY DIRTY HOBBY,http://tvmate.icu:8080/60023165/94429242/160017
 PORNBOX: MY FAMILY PIES,http://tvmate.icu:8080/60023165/94429242/160018
 PORNBOX: MY FAMILY PIES,http://tvmate.icu:8080/C4Ft1d/042942/160018
 PORNBOX: MY LIFE IN MIAMI,http://tvmate.icu:8080/60023165/94429242/160019
 PORNBOX: MY PERVY FAMILY,http://tvmate.icu:8080/60023165/94429242/160020
 PORNBOX: MY PERVY FAMILY,http://tvmate.icu:8080/C4Ft1d/042942/160020
-PORNBOX: MY TINY WISH,http://tvmate.icu:8080/60023165/94429242/160021
-PORNBOX: MYLF,http://tvmate.icu:8080/C4Ft1d/042942/160022
 PORNBOX: MYLF,http://tvmate.icu:8080/60023165/94429242/160022
+PORNBOX: MYLF,http://tvmate.icu:8080/C4Ft1d/042942/160022
 PORNBOX: NEW SENSATIONS,http://tvmate.icu:8080/60023165/94429242/160023
-PORNBOX: NF BUSTY,http://tvmate.icu:8080/C4Ft1d/042942/160024
 PORNBOX: NF BUSTY,http://tvmate.icu:8080/60023165/94429242/160024
+PORNBOX: NF BUSTY,http://tvmate.icu:8080/C4Ft1d/042942/160024
+PORNBOX: NUBILE FILMS,http://tvmate.icu:8080/60023165/94429242/160025
 PORNBOX: NURU MASSAGE,http://tvmate.icu:8080/60023165/94429242/160026
 PORNBOX: NURU MASSAGE,http://tvmate.icu:8080/C4Ft1d/042942/160026
 PORNBOX: PASSION,http://tvmate.icu:8080/60023165/94429242/160027
@@ -802,18 +803,16 @@ PORNBOX: PERV CITY,http://tvmate.icu:8080/C4Ft1d/042942/160028
 PORNBOX: PERV MOM,http://tvmate.icu:8080/60023165/94429242/160029
 PORNBOX: PORN WORLD HARDCORE,http://tvmate.icu:8080/60023165/94429242/160030
 PORNBOX: PORN WORLD HARDCORE,http://tvmate.icu:8080/C4Ft1d/042942/160030
-PORNBOX: PORNHOCHIC,http://tvmate.icu:8080/60023165/94429242/160031
 PORNBOX: POVD,http://tvmate.icu:8080/60023165/94429242/160032
-PORNBOX: POVD,http://tvmate.icu:8080/C4Ft1d/042942/160032
 PORNBOX: PRENCESS CUM,http://tvmate.icu:8080/60023165/94429242/160033
 PORNBOX: PRIVATE,http://tvmate.icu:8080/60023165/94429242/160034
 PORNBOX: PRIVATE,http://tvmate.icu:8080/C4Ft1d/042942/160034
 PORNBOX: PROPERTY SEX,http://tvmate.icu:8080/60023165/94429242/160035
-PORNBOX: PUBLIC AGENT,http://tvmate.icu:8080/C4Ft1d/042942/160036
 PORNBOX: PUBLIC AGENT,http://tvmate.icu:8080/60023165/94429242/160036
+PORNBOX: PUBLIC AGENT,http://tvmate.icu:8080/C4Ft1d/042942/160036
 PORNBOX: PURE MATURE,http://tvmate.icu:8080/60023165/94429242/160037
-PORNBOX: REAL DIRTY VIDEOS,http://tvmate.icu:8080/C4Ft1d/042942/160038
 PORNBOX: REAL DIRTY VIDEOS,http://tvmate.icu:8080/60023165/94429242/160038
+PORNBOX: REAL DIRTY VIDEOS,http://tvmate.icu:8080/C4Ft1d/042942/160038
 PORNBOX: REALITY JUNKIES,http://tvmate.icu:8080/60023165/94429242/160040
 PORNBOX: REALITY KINGS,http://tvmate.icu:8080/60023165/94429242/160041
 PORNBOX: REALITY KINGS,http://tvmate.icu:8080/C4Ft1d/042942/160041
@@ -832,13 +831,12 @@ STARS EXCLUSIVE: ADRIANA CHECHIK,http://tvmate.icu:8080/60023165/94429242/160050
 STARS EXCLUSIVE: ALINA LOPEZ,http://tvmate.icu:8080/60023165/94429242/160051
 STARS EXCLUSIVE: ALINA LOPEZ,http://tvmate.icu:8080/C4Ft1d/042942/160051
 STARS EXCLUSIVE: ANGELA WHITE,http://tvmate.icu:8080/60023165/94429242/160052
-STARS EXCLUSIVE: ARIANA MARIE,http://tvmate.icu:8080/60023165/94429242/160053
 STARS EXCLUSIVE: AUGUST AMES,http://tvmate.icu:8080/60023165/94429242/160054
 STARS EXCLUSIVE: AUTUMN FALLS,http://tvmate.icu:8080/60023165/94429242/160055
 STARS EXCLUSIVE: AUTUMN FALLS,http://tvmate.icu:8080/C4Ft1d/042942/160055
 STARS EXCLUSIVE: BRANDI LOVE,http://tvmate.icu:8080/60023165/94429242/160056
-STARS EXCLUSIVE: DANI DANIELS,http://tvmate.icu:8080/C4Ft1d/042942/160057
 STARS EXCLUSIVE: DANI DANIELS,http://tvmate.icu:8080/60023165/94429242/160057
+STARS EXCLUSIVE: DANI DANIELS,http://tvmate.icu:8080/C4Ft1d/042942/160057
 STARS EXCLUSIVE: DANI JENSEN,http://tvmate.icu:8080/60023165/94429242/160058
 STARS EXCLUSIVE: ELSA JEAN,http://tvmate.icu:8080/60023165/94429242/160059
 STARS EXCLUSIVE: ELSA JEAN,http://tvmate.icu:8080/C4Ft1d/042942/160059
@@ -852,8 +850,8 @@ STARS EXCLUSIVE: JESSA RHODES,http://tvmate.icu:8080/60023165/94429242/160064
 STARS EXCLUSIVE: LANA RHOADES,http://tvmate.icu:8080/60023165/94429242/160065
 STARS EXCLUSIVE: LANA RHOADES,http://tvmate.icu:8080/C4Ft1d/042942/160065
 STARS EXCLUSIVE: LENA PAUL,http://tvmate.icu:8080/60023165/94429242/160066
-STARS EXCLUSIVE: LISA ANN,http://tvmate.icu:8080/C4Ft1d/042942/160067
 STARS EXCLUSIVE: LISA ANN,http://tvmate.icu:8080/60023165/94429242/160067
+STARS EXCLUSIVE: LISA ANN,http://tvmate.icu:8080/C4Ft1d/042942/160067
 STARS EXCLUSIVE: MADISON IVY,http://tvmate.icu:8080/60023165/94429242/160068
 STARS EXCLUSIVE: MIA MALKOVA,http://tvmate.icu:8080/C4Ft1d/042942/160069
 STARS EXCLUSIVE: NICOLE ANISTON,http://tvmate.icu:8080/60023165/94429242/160070
@@ -866,7 +864,6 @@ VERIFIED AMATEURS: ALICE REDLIPS,http://tvmate.icu:8080/60023165/94429242/160074
 VERIFIED AMATEURS: BIGTITTYGOTHEGG,http://tvmate.icu:8080/60023165/94429242/160075
 VERIFIED AMATEURS: BIGTITTYGOTHEGG,http://tvmate.icu:8080/C4Ft1d/042942/160075
 VERIFIED AMATEURS: CHERRY GRACE,http://tvmate.icu:8080/60023165/94429242/160076
-VERIFIED AMATEURS: DIANA DANIELS,http://tvmate.icu:8080/60023165/94429242/160078
 VERIFIED AMATEURS: DIANA DANIELS,http://tvmate.icu:8080/C4Ft1d/042942/160078
 VERIFIED AMATEURS: ELLAKAI,http://tvmate.icu:8080/60023165/94429242/160079
 VERIFIED AMATEURS: FIAMURR,http://tvmate.icu:8080/60023165/94429242/160080
@@ -875,8 +872,8 @@ VERIFIED AMATEURS: KRISS KISS,http://tvmate.icu:8080/60023165/94429242/160081
 VERIFIED AMATEURS: LEAH MEOW,http://tvmate.icu:8080/60023165/94429242/160082
 VERIFIED AMATEURS: LEAH MEOW,http://tvmate.icu:8080/C4Ft1d/042942/160082
 VERIFIED AMATEURS: LUXURYGIRL,http://tvmate.icu:8080/60023165/94429242/160083
-VERIFIED AMATEURS: MIKANIKA69,http://tvmate.icu:8080/60023165/94429242/160084
 VERIFIED AMATEURS: MIKANIKA69,http://tvmate.icu:8080/C4Ft1d/042942/160084
+VERIFIED AMATEURS: MIKANIKA69,http://tvmate.icu:8080/60023165/94429242/160084
 VERIFIED AMATEURS: MINI DIVA,http://tvmate.icu:8080/60023165/94429242/160085
 VERIFIED AMATEURS: MOLLYREDWOLF,http://tvmate.icu:8080/60023165/94429242/160086
 VERIFIED AMATEURS: MOLLYREDWOLF,http://tvmate.icu:8080/C4Ft1d/042942/160086
@@ -910,6 +907,7 @@ X4 | Alex Adams,http://tvmate.icu:8080/60023165/94429242/215442
 X4 | Alexis Crystal,http://tvmate.icu:8080/60023165/94429242/215443
 X4 | Alexis Crystal,http://tvmate.icu:8080/C4Ft1d/042942/215443
 X4 | Alexis Fawx,http://tvmate.icu:8080/60023165/94429242/215444
+X4 | Alexis Texas,http://tvmate.icu:8080/60023165/94429242/215446
 X4 | Alina Lopez,http://tvmate.icu:8080/60023165/94429242/215447
 X4 | Alina Lopez,http://tvmate.icu:8080/C4Ft1d/042942/215447
 X4 | Alina Rai,http://tvmate.icu:8080/60023165/94429242/215448
@@ -932,8 +930,8 @@ X4 | Aria Lee,http://tvmate.icu:8080/60023165/94429242/215463
 X4 | Aria Lee,http://tvmate.icu:8080/C4Ft1d/042942/215463
 X4 | ASGmax,http://tvmate.icu:8080/60023165/94429242/215464
 X4 | Athena Faris,http://tvmate.icu:8080/60023165/94429242/215466
-X4 | Aunt Judys XXX,http://tvmate.icu:8080/C4Ft1d/042942/215467
 X4 | Aunt Judys XXX,http://tvmate.icu:8080/60023165/94429242/215467
+X4 | Aunt Judys XXX,http://tvmate.icu:8080/C4Ft1d/042942/215467
 X4 | Autumn Falls,http://tvmate.icu:8080/60023165/94429242/215468
 X4 | Ava Addams,http://tvmate.icu:8080/60023165/94429242/215469
 X4 | Ava Addams,http://tvmate.icu:8080/C4Ft1d/042942/215469
@@ -942,18 +940,19 @@ X4 | BadFamilyPov,http://tvmate.icu:8080/60023165/94429242/215471
 X4 | BadFamilyPov,http://tvmate.icu:8080/C4Ft1d/042942/215471
 X4 | BBC Pie,http://tvmate.icu:8080/60023165/94429242/215473
 X4 | BBC Pie,http://tvmate.icu:8080/C4Ft1d/042942/215473
+X4 | BBW,http://tvmate.icu:8080/60023165/94429242/215474
 X4 | Bellamurr,http://tvmate.icu:8080/60023165/94429242/215476
 X4 | BFFs,http://tvmate.icu:8080/60023165/94429242/215477
 X4 | BFFs,http://tvmate.icu:8080/C4Ft1d/042942/215477
 X4 | Big Ass,http://tvmate.icu:8080/60023165/94429242/215478
-X4 | Big Boobs,http://tvmate.icu:8080/C4Ft1d/042942/215479
 X4 | Big Boobs,http://tvmate.icu:8080/60023165/94429242/215479
+X4 | Big Boobs,http://tvmate.icu:8080/C4Ft1d/042942/215479
 X4 | BigTittyGothEgg,http://tvmate.icu:8080/60023165/94429242/215480
 X4 | Black Money,http://tvmate.icu:8080/60023165/94429242/215481
 X4 | Black Money,http://tvmate.icu:8080/C4Ft1d/042942/215481
 X4 | Blacks On Boys,http://tvmate.icu:8080/60023165/94429242/215482
-X4 | Blair Williams,http://tvmate.icu:8080/C4Ft1d/042942/215483
 X4 | Blair Williams,http://tvmate.icu:8080/60023165/94429242/215483
+X4 | Blair Williams,http://tvmate.icu:8080/C4Ft1d/042942/215483
 X4 | Blake Blossom,http://tvmate.icu:8080/60023165/94429242/215484
 X4 | Blaze Rager,http://tvmate.icu:8080/60023165/94429242/215485
 X4 | Blaze Rager,http://tvmate.icu:8080/C4Ft1d/042942/215485
@@ -961,7 +960,7 @@ X4 | Blonde,http://tvmate.icu:8080/60023165/94429242/215486
 X4 | Blowjob,http://tvmate.icu:8080/60023165/94429242/215488
 X4 | Bob Big Tula,http://tvmate.icu:8080/60023165/94429242/215489
 X4 | Bob Big Tula,http://tvmate.icu:8080/C4Ft1d/042942/215489
-X4 | Brandi Love,http://tvmate.icu:8080/60023165/94429242/215492
+X4 | Bondage,http://tvmate.icu:8080/60023165/94429242/215490
 X4 | Bratty Milf,http://tvmate.icu:8080/60023165/94429242/215493
 X4 | Bratty Milf,http://tvmate.icu:8080/C4Ft1d/042942/215493
 X4 | Bratty Sis,http://tvmate.icu:8080/60023165/94429242/215494
@@ -982,6 +981,7 @@ X4 | Chessie Rae,http://tvmate.icu:8080/C4Ft1d/042942/215505
 X4 | Chole Temple,http://tvmate.icu:8080/60023165/94429242/215506
 X4 | Chuck Hunter,http://tvmate.icu:8080/60023165/94429242/215507
 X4 | Chuck Hunter,http://tvmate.icu:8080/C4Ft1d/042942/215507
+X4 | Close Up,http://tvmate.icu:8080/60023165/94429242/215508
 X4 | College,http://tvmate.icu:8080/60023165/94429242/215509
 X4 | College,http://tvmate.icu:8080/C4Ft1d/042942/215509
 X4 | Cory Chase,http://tvmate.icu:8080/60023165/94429242/215510
@@ -989,13 +989,11 @@ X4 | Creampie,http://tvmate.icu:8080/60023165/94429242/215512
 X4 | Creamy Spot,http://tvmate.icu:8080/60023165/94429242/215513
 X4 | Creamy Spot,http://tvmate.icu:8080/C4Ft1d/042942/215513
 X4 | Crystal Lust,http://tvmate.icu:8080/60023165/94429242/215514
-X4 | Crystal Rush,http://tvmate.icu:8080/60023165/94429242/215515
-X4 | Crystal Rush,http://tvmate.icu:8080/C4Ft1d/042942/215515
 X4 | Cum in Mouth,http://tvmate.icu:8080/60023165/94429242/215517
 X4 | Cum in Mouth,http://tvmate.icu:8080/C4Ft1d/042942/215517
 X4 | Cumshot,http://tvmate.icu:8080/60023165/94429242/215518
-X4 | Cutie Kim,http://tvmate.icu:8080/60023165/94429242/215519
 X4 | Cutie Kim,http://tvmate.icu:8080/C4Ft1d/042942/215519
+X4 | Cutie Kim,http://tvmate.icu:8080/60023165/94429242/215519
 X4 | Czech Soles,http://tvmate.icu:8080/60023165/94429242/215520
 X4 | Czrok,http://tvmate.icu:8080/60023165/94429242/215521
 X4 | Czrok,http://tvmate.icu:8080/C4Ft1d/042942/215521
@@ -1010,8 +1008,6 @@ X4 | Diana Rider,http://tvmate.icu:8080/60023165/94429242/215528
 X4 | DickForLily,http://tvmate.icu:8080/60023165/94429242/215529
 X4 | DickForLily,http://tvmate.icu:8080/C4Ft1d/042942/215529
 X4 | Digital Climaxxx,http://tvmate.icu:8080/60023165/94429242/215530
-X4 | Digital Playground,http://tvmate.icu:8080/60023165/94429242/215531
-X4 | Digital Playground,http://tvmate.icu:8080/C4Ft1d/042942/215531
 X4 | Dillion Harper,http://tvmate.icu:8080/60023165/94429242/215532
 X4 | Doghouse Digital,http://tvmate.icu:8080/60023165/94429242/215533
 X4 | Doghouse Digital,http://tvmate.icu:8080/C4Ft1d/042942/215533
@@ -1019,13 +1015,14 @@ X4 | Double Penetration,http://tvmate.icu:8080/60023165/94429242/215534
 X4 | Ebony,http://tvmate.icu:8080/60023165/94429242/215535
 X4 | Ebony,http://tvmate.icu:8080/C4Ft1d/042942/215535
 X4 | Egon Kowalski,http://tvmate.icu:8080/60023165/94429242/215536
-X4 | Elly Clutch,http://tvmate.icu:8080/60023165/94429242/215538
-X4 | Elsa Jean,http://tvmate.icu:8080/C4Ft1d/042942/215539
+X4 | Eliza Ibarra,http://tvmate.icu:8080/60023165/94429242/215537
+X4 | Eliza Ibarra,http://tvmate.icu:8080/C4Ft1d/042942/215537
 X4 | Elsa Jean,http://tvmate.icu:8080/60023165/94429242/215539
-X4 | Ema Karter,http://tvmate.icu:8080/60023165/94429242/215540
+X4 | Elsa Jean,http://tvmate.icu:8080/C4Ft1d/042942/215539
+X4 | Emanuelly Raquel,http://tvmate.icu:8080/60023165/94429242/215541
+X4 | Emanuelly Raquel,http://tvmate.icu:8080/C4Ft1d/042942/215541
 X4 | Emily Willis,http://tvmate.icu:8080/60023165/94429242/215542
-X4 | Emma Fiore,http://tvmate.icu:8080/60023165/94429242/215543
-X4 | Emma Fiore,http://tvmate.icu:8080/C4Ft1d/042942/215543
+X4 | Emma Hix,http://tvmate.icu:8080/60023165/94429242/215544
 X4 | Estter Muniz,http://tvmate.icu:8080/60023165/94429242/215545
 X4 | Estter Muniz,http://tvmate.icu:8080/C4Ft1d/042942/215545
 X4 | Eva Lovia,http://tvmate.icu:8080/60023165/94429242/215547
@@ -1040,28 +1037,23 @@ X4 | FAMILYxxx,http://tvmate.icu:8080/60023165/94429242/215552
 X4 | Feet,http://tvmate.icu:8080/60023165/94429242/215553
 X4 | Feet,http://tvmate.icu:8080/C4Ft1d/042942/215553
 X4 | Fisting,http://tvmate.icu:8080/60023165/94429242/215556
-X4 | Full,http://tvmate.icu:8080/60023165/94429242/215557
-X4 | Full,http://tvmate.icu:8080/C4Ft1d/042942/215557
 X4 | Futanari,http://tvmate.icu:8080/60023165/94429242/215558
 X4 | Gabbie Carter,http://tvmate.icu:8080/60023165/94429242/215559
 X4 | Gabbie Carter,http://tvmate.icu:8080/C4Ft1d/042942/215559
 X4 | Gangbang,http://tvmate.icu:8080/60023165/94429242/215560
-X4 | GentlyPerv,http://tvmate.icu:8080/60023165/94429242/215561
-X4 | GentlyPerv,http://tvmate.icu:8080/C4Ft1d/042942/215561
 X4 | German Scout,http://tvmate.icu:8080/60023165/94429242/215562
 X4 | Gina Valentina,http://tvmate.icu:8080/60023165/94429242/215564
-X4 | Ginebra Bellucci,http://tvmate.icu:8080/C4Ft1d/042942/215565
 X4 | Ginebra Bellucci,http://tvmate.icu:8080/60023165/94429242/215565
+X4 | Ginebra Bellucci,http://tvmate.icu:8080/C4Ft1d/042942/215565
 X4 | Girl Cum,http://tvmate.icu:8080/60023165/94429242/215566
 X4 | GirlGirlXXX,http://tvmate.icu:8080/60023165/94429242/215567
 X4 | GirlGirlXXX,http://tvmate.icu:8080/C4Ft1d/042942/215567
 X4 | Girls Only,http://tvmate.icu:8080/60023165/94429242/215568
 X4 | Hailey Rose,http://tvmate.icu:8080/60023165/94429242/215569
-X4 | Hailey Rose,http://tvmate.icu:8080/C4Ft1d/042942/215569
-X4 | Haley Reed,http://tvmate.icu:8080/60023165/94429242/215570
-X4 | Handjob,http://tvmate.icu:8080/C4Ft1d/042942/215571
 X4 | Handjob,http://tvmate.icu:8080/60023165/94429242/215571
+X4 | Handjob,http://tvmate.icu:8080/C4Ft1d/042942/215571
 X4 | Hardcore,http://tvmate.icu:8080/60023165/94429242/215572
+X4 | Hazel Moore,http://tvmate.icu:8080/60023165/94429242/215573
 X4 | Hazel Moore,http://tvmate.icu:8080/C4Ft1d/042942/215573
 X4 | Hentai,http://tvmate.icu:8080/60023165/94429242/215574
 X4 | Her Limit,http://tvmate.icu:8080/60023165/94429242/215575
@@ -1072,61 +1064,61 @@ X4 | Holed,http://tvmate.icu:8080/60023165/94429242/215578
 X4 | Horny Hostel,http://tvmate.icu:8080/60023165/94429242/215579
 X4 | Horny Hostel,http://tvmate.icu:8080/C4Ft1d/042942/215579
 X4 | Hot Wife XXX,http://tvmate.icu:8080/60023165/94429242/215580
-X4 | Hung Young Brit,http://tvmate.icu:8080/C4Ft1d/042942/215581
 X4 | Hung Young Brit,http://tvmate.icu:8080/60023165/94429242/215581
+X4 | Hung Young Brit,http://tvmate.icu:8080/C4Ft1d/042942/215581
 X4 | Janice Griffith,http://tvmate.icu:8080/60023165/94429242/215582
 X4 | Japan Uncensored,http://tvmate.icu:8080/60023165/94429242/215583
 X4 | Japan Uncensored,http://tvmate.icu:8080/C4Ft1d/042942/215583
+X4 | Jays Pov,http://tvmate.icu:8080/60023165/94429242/215584
 X4 | Jenny Lux,http://tvmate.icu:8080/60023165/94429242/215585
 X4 | Jenny Lux,http://tvmate.icu:8080/C4Ft1d/042942/215585
 X4 | Jessa Rhodes,http://tvmate.icu:8080/60023165/94429242/215586
-X4 | Jewelz Blu,http://tvmate.icu:8080/60023165/94429242/215587
 X4 | Jia Lissa,http://tvmate.icu:8080/60023165/94429242/215588
 X4 | John and Sky,http://tvmate.icu:8080/60023165/94429242/215590
-X4 | Julie Jess,http://tvmate.icu:8080/60023165/94429242/215591
 X4 | Julie Jess,http://tvmate.icu:8080/C4Ft1d/042942/215591
+X4 | Julie Jess,http://tvmate.icu:8080/60023165/94429242/215591
+X4 | Kagney Linn Karter,http://tvmate.icu:8080/60023165/94429242/215592
 X4 | Karlee Grey,http://tvmate.icu:8080/60023165/94429242/215593
 X4 | Karlee Grey,http://tvmate.icu:8080/C4Ft1d/042942/215593
-X4 | Kate Koss,http://tvmate.icu:8080/C4Ft1d/042942/215595
 X4 | Kate Koss,http://tvmate.icu:8080/60023165/94429242/215595
+X4 | Kate Koss,http://tvmate.icu:8080/C4Ft1d/042942/215595
 X4 | Kelsi Monroe,http://tvmate.icu:8080/60023165/94429242/215597
 X4 | Kelsi Monroe,http://tvmate.icu:8080/C4Ft1d/042942/215597
 X4 | Kendra Lust,http://tvmate.icu:8080/60023165/94429242/215598
-X4 | Kenna James,http://tvmate.icu:8080/60023165/94429242/215599
-X4 | Kenna James,http://tvmate.icu:8080/C4Ft1d/042942/215599
 X4 | Kenzie Reeves,http://tvmate.icu:8080/60023165/94429242/215601
 X4 | Kenzie Reeves,http://tvmate.icu:8080/C4Ft1d/042942/215601
 X4 | Kitty K,http://tvmate.icu:8080/60023165/94429242/215603
 X4 | Kitty K,http://tvmate.icu:8080/C4Ft1d/042942/215603
 X4 | Klinky Spa,http://tvmate.icu:8080/60023165/94429242/215604
-X4 | Kourtney Love,http://tvmate.icu:8080/60023165/94429242/215605
 X4 | Kourtney Love,http://tvmate.icu:8080/C4Ft1d/042942/215605
 X4 | Kylie Rocket,http://tvmate.icu:8080/60023165/94429242/215607
 X4 | Kylie Rocket,http://tvmate.icu:8080/C4Ft1d/042942/215607
-X4 | Lana Rhoades,http://tvmate.icu:8080/60023165/94429242/215610
-X4 | LaSirena69,http://tvmate.icu:8080/C4Ft1d/042942/215611
+X4 | Lacy Lennon,http://tvmate.icu:8080/60023165/94429242/215609
+X4 | Lacy Lennon,http://tvmate.icu:8080/C4Ft1d/042942/215609
 X4 | LaSirena69,http://tvmate.icu:8080/60023165/94429242/215611
+X4 | LaSirena69,http://tvmate.icu:8080/C4Ft1d/042942/215611
 X4 | Latin Leche,http://tvmate.icu:8080/60023165/94429242/215612
-X4 | Latina Milf,http://tvmate.icu:8080/C4Ft1d/042942/215613
 X4 | Latina Milf,http://tvmate.icu:8080/60023165/94429242/215613
+X4 | Latina Milf,http://tvmate.icu:8080/C4Ft1d/042942/215613
 X4 | Leah Gotti,http://tvmate.icu:8080/60023165/94429242/215616
-X4 | Leana Lovings,http://tvmate.icu:8080/60023165/94429242/215617
 X4 | Leana Lovings,http://tvmate.icu:8080/C4Ft1d/042942/215617
+X4 | Leana Lovings,http://tvmate.icu:8080/60023165/94429242/215617
 X4 | Lela Star,http://tvmate.icu:8080/60023165/94429242/215618
 X4 | Lena Paul,http://tvmate.icu:8080/60023165/94429242/215619
 X4 | Lena Paul,http://tvmate.icu:8080/C4Ft1d/042942/215619
+X4 | Lesbian,http://tvmate.icu:8080/60023165/94429242/215621
+X4 | Lesbian,http://tvmate.icu:8080/C4Ft1d/042942/215621
 X4 | LetsDoelt,http://tvmate.icu:8080/60023165/94429242/215622
 X4 | LetsDoelt Bonus,http://tvmate.icu:8080/60023165/94429242/215623
 X4 | LetsDoelt Bonus,http://tvmate.icu:8080/C4Ft1d/042942/215623
 X4 | Lexi Lore,http://tvmate.icu:8080/60023165/94429242/215624
 X4 | Lexi Luna,http://tvmate.icu:8080/60023165/94429242/215625
 X4 | Lexi Luna,http://tvmate.icu:8080/C4Ft1d/042942/215625
-X4 | Lily Lou,http://tvmate.icu:8080/60023165/94429242/215626
 X4 | Little Caprice,http://tvmate.icu:8080/60023165/94429242/215627
 X4 | Little Caprice,http://tvmate.icu:8080/C4Ft1d/042942/215627
 X4 | Little Tina,http://tvmate.icu:8080/60023165/94429242/215628
-X4 | Littlebuffbabe,http://tvmate.icu:8080/C4Ft1d/042942/215629
 X4 | Littlebuffbabe,http://tvmate.icu:8080/60023165/94429242/215629
+X4 | Littlebuffbabe,http://tvmate.icu:8080/C4Ft1d/042942/215629
 X4 | Loliiiiipop99,http://tvmate.icu:8080/60023165/94429242/215630
 X4 | Loly Lips,http://tvmate.icu:8080/60023165/94429242/215631
 X4 | Loly Lips,http://tvmate.icu:8080/C4Ft1d/042942/215631
@@ -1135,6 +1127,7 @@ X4 | Lulu Chu,http://tvmate.icu:8080/60023165/94429242/215633
 X4 | Lulu Chu,http://tvmate.icu:8080/C4Ft1d/042942/215633
 X4 | Luna Okko,http://tvmate.icu:8080/60023165/94429242/215634
 X4 | Luna Roulette,http://tvmate.icu:8080/C4Ft1d/042942/215635
+X4 | Luna Star,http://tvmate.icu:8080/60023165/94429242/215636
 X4 | Luxury Girl,http://tvmate.icu:8080/60023165/94429242/215637
 X4 | Luxury Girl,http://tvmate.icu:8080/C4Ft1d/042942/215637
 X4 | Macy Meadows,http://tvmate.icu:8080/60023165/94429242/215638
@@ -1144,8 +1137,6 @@ X4 | MamacitaZ,http://tvmate.icu:8080/60023165/94429242/215640
 X4 | Mariana Martix,http://tvmate.icu:8080/60023165/94429242/215641
 X4 | Mariana Martix,http://tvmate.icu:8080/C4Ft1d/042942/215641
 X4 | MartinPaola,http://tvmate.icu:8080/60023165/94429242/215642
-X4 | Massage,http://tvmate.icu:8080/60023165/94429242/215643
-X4 | Massage,http://tvmate.icu:8080/C4Ft1d/042942/215643
 X4 | Mature,http://tvmate.icu:8080/60023165/94429242/215645
 X4 | Mature,http://tvmate.icu:8080/C4Ft1d/042942/215645
 X4 | MeeHuTao,http://tvmate.icu:8080/60023165/94429242/215646
@@ -1161,13 +1152,14 @@ X4 | MihaNika69,http://tvmate.icu:8080/C4Ft1d/042942/215653
 X4 | Mila Solana,http://tvmate.icu:8080/60023165/94429242/215654
 X4 | Milana Milka,http://tvmate.icu:8080/60023165/94429242/215655
 X4 | Milana Milka,http://tvmate.icu:8080/C4Ft1d/042942/215655
-X4 | Milf,http://tvmate.icu:8080/60023165/94429242/215656
 X4 | Milfed,http://tvmate.icu:8080/60023165/94429242/215657
 X4 | Milfed,http://tvmate.icu:8080/C4Ft1d/042942/215657
 X4 | Mini Diva,http://tvmate.icu:8080/60023165/94429242/215658
+X4 | Mira David,http://tvmate.icu:8080/C4Ft1d/042942/215659
+X4 | Mira David,http://tvmate.icu:8080/60023165/94429242/215659
+X4 | Mirrari Hub,http://tvmate.icu:8080/60023165/94429242/215660
 X4 | Miss Ary,http://tvmate.icu:8080/60023165/94429242/215661
 X4 | Miss Ary,http://tvmate.icu:8080/C4Ft1d/042942/215661
-X4 | Miss Savage,http://tvmate.icu:8080/60023165/94429242/215662
 X4 | Missionary,http://tvmate.icu:8080/60023165/94429242/215663
 X4 | Missionary,http://tvmate.icu:8080/C4Ft1d/042942/215663
 X4 | Missionary Boys,http://tvmate.icu:8080/60023165/94429242/215664
@@ -1175,23 +1167,25 @@ X4 | Mofos,http://tvmate.icu:8080/60023165/94429242/215665
 X4 | Mofos,http://tvmate.icu:8080/C4Ft1d/042942/215665
 X4 | Molly Little,http://tvmate.icu:8080/60023165/94429242/215666
 X4 | Molly Moon,http://tvmate.icu:8080/C4Ft1d/042942/215667
-X4 | Molly Pills,http://tvmate.icu:8080/60023165/94429242/215668
-X4 | MollyRedWolf,http://tvmate.icu:8080/60023165/94429242/215669
 X4 | MollyRedWolf,http://tvmate.icu:8080/C4Ft1d/042942/215669
+X4 | MollyRedWolf,http://tvmate.icu:8080/60023165/94429242/215669
 X4 | Mom Lover,http://tvmate.icu:8080/60023165/94429242/215670
 X4 | Mom Tight,http://tvmate.icu:8080/60023165/94429242/215671
 X4 | Mom Tight,http://tvmate.icu:8080/C4Ft1d/042942/215671
 X4 | Mom Wants Creampie,http://tvmate.icu:8080/60023165/94429242/215672
 X4 | Moms Teach Sex,http://tvmate.icu:8080/60023165/94429242/215674
+X4 | Msbreewc,http://tvmate.icu:8080/60023165/94429242/215675
+X4 | Msbreewc,http://tvmate.icu:8080/C4Ft1d/042942/215675
+X4 | My BF Doesnt Know,http://tvmate.icu:8080/60023165/94429242/215676
 X4 | My Friends Hot Mom,http://tvmate.icu:8080/60023165/94429242/215677
 X4 | My Friends Hot Mom,http://tvmate.icu:8080/C4Ft1d/042942/215677
 X4 | My Pervy Family,http://tvmate.icu:8080/60023165/94429242/215678
 X4 | MyAnny,http://tvmate.icu:8080/60023165/94429242/215679
 X4 | MyAnny,http://tvmate.icu:8080/C4Ft1d/042942/215679
+X4 | MYLF,http://tvmate.icu:8080/60023165/94429242/215680
 X4 | Nadja Rey,http://tvmate.icu:8080/60023165/94429242/215682
 X4 | Natasha Nice,http://tvmate.icu:8080/60023165/94429242/215683
 X4 | Natasha Nice,http://tvmate.icu:8080/C4Ft1d/042942/215683
-X4 | New Sensations,http://tvmate.icu:8080/60023165/94429242/215684
 X4 | Next Door Taboo,http://tvmate.icu:8080/60023165/94429242/215688
 X4 | Next Door Twink,http://tvmate.icu:8080/60023165/94429242/215689
 X4 | Next Door Twink,http://tvmate.icu:8080/C4Ft1d/042942/215689
@@ -1199,17 +1193,20 @@ X4 | NF Busty,http://tvmate.icu:8080/60023165/94429242/215690
 X4 | Nubile Films,http://tvmate.icu:8080/60023165/94429242/215693
 X4 | Nubile Films,http://tvmate.icu:8080/C4Ft1d/042942/215693
 X4 | Nubiles,http://tvmate.icu:8080/60023165/94429242/215694
-X4 | Nyna Ferragni,http://tvmate.icu:8080/C4Ft1d/042942/215695
 X4 | Nyna Ferragni,http://tvmate.icu:8080/60023165/94429242/215695
+X4 | Nyna Ferragni,http://tvmate.icu:8080/C4Ft1d/042942/215695
 X4 | Paige Steele,http://tvmate.icu:8080/60023165/94429242/215696
+X4 | Pamsnusnu,http://tvmate.icu:8080/60023165/94429242/215697
+X4 | Pamsnusnu,http://tvmate.icu:8080/C4Ft1d/042942/215697
 X4 | Pantyhose,http://tvmate.icu:8080/60023165/94429242/215698
 X4 | Parasited,http://tvmate.icu:8080/60023165/94429242/215699
 X4 | Parasited,http://tvmate.icu:8080/C4Ft1d/042942/215699
 X4 | Passion,http://tvmate.icu:8080/60023165/94429242/215700
 X4 | Perv Mom,http://tvmate.icu:8080/60023165/94429242/215703
 X4 | Perv Mom,http://tvmate.icu:8080/C4Ft1d/042942/215703
-X4 | Peter Fever,http://tvmate.icu:8080/C4Ft1d/042942/215705
+X4 | Perv Nana,http://tvmate.icu:8080/60023165/94429242/215704
 X4 | Peter Fever,http://tvmate.icu:8080/60023165/94429242/215705
+X4 | Peter Fever,http://tvmate.icu:8080/C4Ft1d/042942/215705
 X4 | Peters Kingdom,http://tvmate.icu:8080/60023165/94429242/215706
 X4 | Pinkloving,http://tvmate.icu:8080/60023165/94429242/215707
 X4 | Pinkloving,http://tvmate.icu:8080/C4Ft1d/042942/215707
@@ -1218,8 +1215,9 @@ X4 | Pissing,http://tvmate.icu:8080/60023165/94429242/215709
 X4 | Pissing,http://tvmate.icu:8080/C4Ft1d/042942/215709
 X4 | Porn Pros,http://tvmate.icu:8080/60023165/94429242/215711
 X4 | Porn Pros,http://tvmate.icu:8080/C4Ft1d/042942/215711
-X4 | Princess Cum,http://tvmate.icu:8080/60023165/94429242/215713
+X4 | POV,http://tvmate.icu:8080/60023165/94429242/215712
 X4 | Princess Cum,http://tvmate.icu:8080/C4Ft1d/042942/215713
+X4 | Princess Cum,http://tvmate.icu:8080/60023165/94429242/215713
 X4 | Proberty Sex,http://tvmate.icu:8080/60023165/94429242/215714
 X4 | Public,http://tvmate.icu:8080/60023165/94429242/215715
 X4 | Public,http://tvmate.icu:8080/C4Ft1d/042942/215715
@@ -1227,6 +1225,8 @@ X4 | Puffy Pink,http://tvmate.icu:8080/60023165/94429242/215716
 X4 | Pure Mature,http://tvmate.icu:8080/60023165/94429242/215717
 X4 | Pure Mature,http://tvmate.icu:8080/C4Ft1d/042942/215717
 X4 | Pure Pleasure,http://tvmate.icu:8080/60023165/94429242/215718
+X4 | Purple Bitch,http://tvmate.icu:8080/60023165/94429242/215719
+X4 | Purple Bitch,http://tvmate.icu:8080/C4Ft1d/042942/215719
 X4 | Pussy Eating,http://tvmate.icu:8080/60023165/94429242/215720
 X4 | Pussy Licking,http://tvmate.icu:8080/60023165/94429242/215721
 X4 | QesasTop,http://tvmate.icu:8080/60023165/94429242/215722
@@ -1234,11 +1234,13 @@ X4 | Raw Attack,http://tvmate.icu:8080/60023165/94429242/215723
 X4 | Raw Attack,http://tvmate.icu:8080/C4Ft1d/042942/215723
 X4 | Raw White Meat,http://tvmate.icu:8080/60023165/94429242/215724
 X4 | Real Men Fuck,http://tvmate.icu:8080/60023165/94429242/215726
+X4 | Reality Dudes,http://tvmate.icu:8080/60023165/94429242/215727
+X4 | Reality Dudes,http://tvmate.icu:8080/C4Ft1d/042942/215727
 X4 | Reality Junkies,http://tvmate.icu:8080/60023165/94429242/215728
+X4 | RealTelariLove,http://tvmate.icu:8080/60023165/94429242/215730
 X4 | Red Head,http://tvmate.icu:8080/60023165/94429242/215731
 X4 | Red Head,http://tvmate.icu:8080/C4Ft1d/042942/215731
-X4 | Riley Reid,http://tvmate.icu:8080/C4Ft1d/042942/215733
-X4 | Riley Reid,http://tvmate.icu:8080/60023165/94429242/215733
+X4 | Reislin,http://tvmate.icu:8080/60023165/94429242/215732
 X4 | Rosie Rider,http://tvmate.icu:8080/60023165/94429242/215735
 X4 | Rosie Rider,http://tvmate.icu:8080/C4Ft1d/042942/215735
 X4 | Sammm Next Door,http://tvmate.icu:8080/60023165/94429242/215736
@@ -1249,10 +1251,10 @@ X4 | Savannah Bond,http://tvmate.icu:8080/C4Ft1d/042942/215739
 X4 | Say Uncle,http://tvmate.icu:8080/60023165/94429242/215740
 X4 | SecretsFilmed,http://tvmate.icu:8080/60023165/94429242/215741
 X4 | SecretsFilmed,http://tvmate.icu:8080/C4Ft1d/042942/215741
+X4 | See Him Fuck,http://tvmate.icu:8080/60023165/94429242/215742
 X4 | She Will Cheat,http://tvmate.icu:8080/60023165/94429242/215744
 X4 | Sheena Ryder,http://tvmate.icu:8080/60023165/94429242/215745
 X4 | Sheena Ryder,http://tvmate.icu:8080/C4Ft1d/042942/215745
-X4 | Shinaryen,http://tvmate.icu:8080/60023165/94429242/215746
 X4 | Silvana Lee,http://tvmate.icu:8080/60023165/94429242/215747
 X4 | Silvana Lee,http://tvmate.icu:8080/C4Ft1d/042942/215747
 X4 | Sis Loves Me,http://tvmate.icu:8080/60023165/94429242/215748
@@ -1273,8 +1275,10 @@ X4 | Step Siblings Caught,http://tvmate.icu:8080/C4Ft1d/042942/215759
 X4 | Sweet Sinner,http://tvmate.icu:8080/60023165/94429242/215760
 X4 | Sweetheart Video,http://tvmate.icu:8080/60023165/94429242/215761
 X4 | Sweetheart Video,http://tvmate.icu:8080/C4Ft1d/042942/215761
+X4 | Sweeti Fox,http://tvmate.icu:8080/60023165/94429242/215762
 X4 | Syndicete,http://tvmate.icu:8080/60023165/94429242/215763
 X4 | Syndicete,http://tvmate.icu:8080/C4Ft1d/042942/215763
+X4 | Team Skeet,http://tvmate.icu:8080/60023165/94429242/215764
 X4 | Teen,http://tvmate.icu:8080/60023165/94429242/215765
 X4 | Teen,http://tvmate.icu:8080/C4Ft1d/042942/215765
 X4 | The White Boxxx,http://tvmate.icu:8080/60023165/94429242/215766
@@ -1292,17 +1296,23 @@ X4 | Tru Kait,http://tvmate.icu:8080/C4Ft1d/042942/215773
 X4 | True Amateurs,http://tvmate.icu:8080/60023165/94429242/215774
 X4 | Try Not To Cum,http://tvmate.icu:8080/60023165/94429242/215775
 X4 | Twistys,http://tvmate.icu:8080/60023165/94429242/215776
-X4 | Up Close,http://tvmate.icu:8080/C4Ft1d/042942/215777
 X4 | Up Close,http://tvmate.icu:8080/60023165/94429242/215777
+X4 | Up Close,http://tvmate.icu:8080/C4Ft1d/042942/215777
 X4 | Valentina Nappi,http://tvmate.icu:8080/60023165/94429242/215778
+X4 | Valerica Steele,http://tvmate.icu:8080/60023165/94429242/215779
+X4 | Valerica Steele,http://tvmate.icu:8080/C4Ft1d/042942/215779
 X4 | Veronica Leal,http://tvmate.icu:8080/60023165/94429242/215780
 X4 | VibeWithMommy,http://tvmate.icu:8080/60023165/94429242/215781
 X4 | VibeWithMommy,http://tvmate.icu:8080/C4Ft1d/042942/215781
 X4 | Vic Alouqua,http://tvmate.icu:8080/60023165/94429242/215782
-X4 | Violet Moreau,http://tvmate.icu:8080/C4Ft1d/042942/215785
+X4 | Vina Sky,http://tvmate.icu:8080/60023165/94429242/215783
+X4 | Vina Sky,http://tvmate.icu:8080/C4Ft1d/042942/215783
+X4 | Vintage,http://tvmate.icu:8080/60023165/94429242/215784
 X4 | Violet Moreau,http://tvmate.icu:8080/60023165/94429242/215785
-X4 | Willow Ryder,http://tvmate.icu:8080/C4Ft1d/042942/215787
+X4 | Violet Moreau,http://tvmate.icu:8080/C4Ft1d/042942/215785
+X4 | Violet Myers,http://tvmate.icu:8080/60023165/94429242/215786
 X4 | Willow Ryder,http://tvmate.icu:8080/60023165/94429242/215787
+X4 | Willow Ryder,http://tvmate.icu:8080/C4Ft1d/042942/215787
 X4 | Xev Bellringer,http://tvmate.icu:8080/60023165/94429242/215788
 X4 | Xreindeers,http://tvmate.icu:8080/60023165/94429242/215789
 X4 | Xreindeers,http://tvmate.icu:8080/C4Ft1d/042942/215789

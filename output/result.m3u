@@ -1,26 +1,26 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dongweiqi1/iptv123/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-02 06:54:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-02 18:51:15
 http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://180.105.201.135:9981/rtp/239.49.8.19:9614
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://180.105.201.135:9981/rtp/239.49.8.129:6000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://114.241.251.105:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://121.29.141.237:4022/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://115.171.216.84:4000/rtp/225.1.8.33:8002
+http://180.105.201.135:9981/rtp/239.49.8.129:6000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://115.58.216.239:4000/rtp/225.1.4.73:1102
+http://180.105.201.135:9981/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://144.255.32.146:8288/udp/239.21.1.120:5002
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://113.119.25.53:58888/udp/239.77.1.144:5146
+http://114.254.37.254:18888/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://121.231.100.196:8095/rtp/239.49.8.129:6000
+http://115.171.80.52:1688/rtp/225.1.8.81:8176
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
+http://115.171.80.52:1688/rtp/225.1.8.33:8002
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
+http://183.236.43.98:4013/udp/239.77.1.144:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://114.241.251.105:4022/rtp/239.3.1.60:8084
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
@@ -28,139 +28,139 @@ http://121.29.141.237:4022/rtp/239.253.92.190:6065
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://183.236.43.98:4013/udp/239.77.1.158:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
+http://27.191.202.133:19999/rtp/239.254.200.158:6000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
+http://114.254.37.254:18888/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
+http://115.171.80.52:1688/rtp/225.1.8.2:8084
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://114.100.195.41:4022/rtp/238.1.78.235:7752
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://115.171.216.84:4000/rtp/225.1.8.2:8084
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://115.58.216.239:4000/rtp/225.1.4.74:1103
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://144.255.32.146:8288/udp/239.21.1.151:5002
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://114.107.44.80:8188/rtp/238.1.78.235:7752
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://113.119.25.53:58888/udp/239.77.1.158:5146
+http://144.255.31.40:6688/udp/239.21.1.151:5002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://111.113.88.146:2000/rtp/239.121.4.155:8914
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://183.236.43.98:4013/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://144.255.32.146:8288/udp/239.21.2.45:5002
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://114.241.251.105:4022/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://115.58.216.239:4000/rtp/225.1.4.158:1194
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://113.119.25.53:58888/udp/239.77.0.169:5146
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
+http://144.255.32.146:8288/udp/239.21.1.151:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://121.29.141.237:4022/rtp/239.253.92.191:6057
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://27.191.202.133:19999/rtp/239.254.201.152:7205
+http://144.255.32.146:8288/udp/239.21.2.45:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://144.255.31.40:6688/udp/239.21.2.45:5002
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://115.171.216.84:4000/rtp/225.1.8.88:8000
+http://113.119.25.53:58888/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://114.254.37.254:18888/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://121.29.141.237:4022/rtp/239.253.92.251:6141
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://111.162.204.64:8686/rtp/225.1.1.150:5002
+http://114.107.44.80:8188/rtp/238.1.78.170:7232
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://183.236.43.98:4013/udp/239.77.0.169:5146
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://27.191.202.133:19999/rtp/239.254.201.152:7205
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://223.198.242.180:4000/rtp/239.253.64.244:5140
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://114.241.251.105:4022/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://114.100.195.41:4022/rtp/238.1.78.170:7232
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://114.241.251.105:4022/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
+http://121.29.141.237:4022/rtp/239.253.92.251:6141
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://113.119.25.53:58888/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://144.255.32.146:8288/udp/239.21.1.154:5002
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://114.100.195.41:4022/rtp/238.1.78.236:7760
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://115.58.216.239:4000/rtp/225.1.5.30:1333
+http://114.254.37.254:18888/rtp/239.3.1.105:8092
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://144.255.32.146:8288/udp/239.21.2.29:5002
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://144.255.31.40:6688/udp/239.21.2.29:5002
+http://27.191.202.133:19999/rtp/239.254.200.190:6307
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://144.255.31.40:6688/udp/239.21.1.154:5002
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://111.162.204.64:8686/rtp/225.1.1.160:5002
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://183.236.43.98:4013/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://144.255.32.146:8288/udp/239.21.2.46:5002
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://115.58.216.239:4000/rtp/225.1.4.159:1195
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://114.241.251.105:4022/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://113.119.25.53:58888/udp/239.77.0.170:5146
+http://115.171.80.52:1688/rtp/225.1.8.4:8092
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
+http://111.113.88.146:2000/rtp/239.121.4.134:8786
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
+http://144.255.31.40:6688/udp/239.21.2.29:5002
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://121.29.141.237:4022/rtp/239.253.92.181:6046
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://144.255.32.146:8288/udp/239.21.2.46:5002
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://114.107.44.80:8188/rtp/238.1.78.171:7240
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://183.236.43.98:4013/udp/239.77.0.170:5146
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://113.119.25.53:58888/udp/239.77.0.170:5146
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://144.255.31.40:6688/udp/239.21.2.46:5002
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://27.191.202.133:19999/rtp/239.254.201.153:7206
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://144.255.31.40:6688/udp/239.21.2.46:5002
+http://114.241.251.105:4022/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://114.254.37.254:18888/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://220.176.218.76:9000/udp/239.252.219.198:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://113.119.25.53:58888/udp/239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://114.241.251.105:4022/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://113.119.25.53:58888/udp/239.77.0.87:5146
+http://121.29.141.237:4022/rtp/239.253.92.82:8013
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://144.255.32.146:8288/udp/239.21.1.142:5002
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://115.58.216.239:4000/rtp/225.1.4.75:1104
+http://113.119.25.53:58888/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://115.171.216.84:4000/rtp/225.1.8.20:8004
+http://114.254.37.254:18888/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://114.100.195.41:4022/rtp/238.1.78.237:7768
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
+http://27.191.202.133:19999/rtp/239.254.200.46:8004
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
+http://114.107.44.80:8188/rtp/238.1.78.237:7768
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://180.105.201.135:9981/rtp/239.49.8.18:9610
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://121.29.141.237:4022/rtp/239.253.92.82:8013
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://121.231.100.196:8095/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://121.29.141.237:4022/rtp/239.253.92.193:6058
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://111.162.204.64:8686/rtp/225.1.1.195:5002
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://183.236.43.98:4013/udp/239.77.0.171:5146
+http://144.255.31.40:6688/udp/239.21.2.47:5002
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://144.255.32.146:8288/udp/239.21.2.47:5002
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://115.58.216.239:4000/rtp/225.1.4.160:1196
+http://113.119.25.53:58888/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://115.171.80.52:1688/rtp/225.1.8.84:8000
+http://114.107.44.80:8188/rtp/238.1.78.172:7248
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://114.100.195.41:4022/rtp/238.1.78.172:7248
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://113.119.25.53:58888/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://27.191.202.133:19999/rtp/239.254.201.154:7207
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://114.107.44.80:8188/rtp/238.1.78.172:7248
+http://223.198.242.180:4000/rtp/239.253.64.246:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
+http://111.113.88.146:2000/rtp/239.121.4.153:8902
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
+http://114.254.37.254:18888/rtp/239.3.1.174:8001
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://121.29.141.237:4022/rtp/239.253.92.194:6059
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
+http://144.255.31.40:6688/udp/239.21.1.152:5002
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://183.236.43.98:4013/udp/239.77.0.138:5146
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://115.58.216.239:4000/rtp/225.1.4.76:1105
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://27.191.202.133:19999/rtp/239.254.200.159:6000
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://114.107.44.80:8188/rtp/238.1.78.239:7784
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://113.119.25.53:58888/udp/239.77.0.138:5146
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://114.100.195.41:4022/rtp/238.1.78.239:7784
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://144.255.32.146:8288/udp/239.21.1.152:5002
+http://27.191.202.133:19999/rtp/239.254.200.159:6000
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://114.254.37.254:18888/rtp/239.3.1.61:8104
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://144.255.31.40:6688/udp/239.21.1.152:5002
+http://223.198.242.180:4000/rtp/239.253.64.54:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
+http://113.119.25.53:58888/udp/239.77.0.138:5146
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
+http://144.255.32.146:8288/udp/239.21.1.152:5002
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://111.162.204.64:8686/rtp/225.1.1.196:5002
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
@@ -168,59 +168,59 @@ http://121.29.141.237:4022/rtp/239.253.92.195:6060
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://183.236.43.98:4013/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
-http://144.255.32.146:8288/udp/239.21.2.48:5002
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
-http://114.107.44.80:8188/rtp/238.1.78.173:7256
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://113.119.25.53:58888/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
-http://115.58.216.239:4000/rtp/225.1.4.161:1197
+http://144.255.32.146:8288/udp/239.21.2.48:5002
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://114.100.195.41:4022/rtp/238.1.78.173:7256
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://27.191.202.133:19999/rtp/239.254.201.155:7208
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
+http://223.198.242.180:4000/rtp/239.253.64.247:5140
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://144.255.31.40:6688/udp/239.21.2.48:5002
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
+http://114.254.37.254:18888/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://111.162.204.64:8686/rtp/225.1.1.119:5002
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://121.29.141.237:4022/rtp/239.253.92.107:6020
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://115.58.216.239:4000/rtp/225.1.4.77:1106
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://144.255.32.146:8288/udp/239.21.1.153:5002
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://183.236.43.98:4013/udp/239.77.0.135:5146
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://111.113.88.146:2000/rtp/239.121.4.157:8926
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://114.100.195.41:4022/rtp/238.1.78.240:7792
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://113.119.25.53:58888/udp/239.77.0.135:5146
+http://144.255.32.146:8288/udp/239.21.1.153:5002
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://144.255.31.40:6688/udp/239.21.1.153:5002
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://114.254.37.254:18888/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://144.255.32.146:8288/udp/239.21.1.155:5002
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://27.191.202.133:19999/rtp/239.254.200.59:8112
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://111.113.88.146:2000/rtp/239.121.4.157:8926
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://220.176.218.76:9000/udp/239.252.220.186:5140
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://115.171.80.52:1688/rtp/225.1.8.9:8112
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://121.29.141.237:4022/rtp/239.253.92.196:6061
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://113.119.25.53:58888/udp/239.77.0.134:5146
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://115.171.216.84:4000/rtp/225.1.8.10:8116
+http://114.100.195.41:4022/rtp/238.1.78.241:7800
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://115.58.216.239:4000/rtp/225.1.4.78:1107
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://180.105.201.135:9981/rtp/239.49.8.54:9818
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://114.254.37.254:18888/rtp/239.3.1.63:8116
+http://144.255.31.40:6688/udp/239.21.1.155:5002
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://114.107.44.80:8188/rtp/238.1.78.241:7800
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
+http://27.191.202.133:19999/rtp/239.254.200.160:6000
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://115.171.80.52:1688/rtp/225.1.8.10:8116
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://114.100.195.41:4022/rtp/238.1.78.241:7800
+http://111.113.88.146:2000/rtp/239.121.4.158:8932
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
+http://223.198.242.180:4000/rtp/239.253.64.87:5140
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
+http://114.254.37.254:18888/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://114.241.251.105:4022/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
@@ -228,291 +228,281 @@ http://121.29.141.237:4022/rtp/239.253.93.153:6321
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://144.255.32.146:8288/udp/239.21.2.2:5002
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://115.58.216.239:4000/rtp/225.1.4.215:1268
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://114.100.195.41:4022/rtp/238.1.78.206:7502
+http://113.119.25.53:58888/udp/239.77.1.238:5146
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://114.107.44.80:8188/rtp/238.1.78.206:7502
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
+http://114.100.195.41:4022/rtp/238.1.78.206:7502
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://27.191.202.133:19999/rtp/239.254.201.123:8120
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://111.113.88.146:2000/rtp/239.121.4.150:9202
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://36.46.98.111:8025/rtp/239.112.205.213:5140
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://223.198.242.180:4000/rtp/239.253.64.70:5140
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://121.29.141.237:4022/rtp/239.253.92.197:6062
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
+http://115.171.80.52:1688/rtp/225.1.8.73:8120
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://114.241.251.105:4022/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
+http://121.29.141.237:4022/rtp/239.253.92.197:6062
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://144.255.32.146:8288/udp/239.21.1.156:5002
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://115.58.216.239:4000/rtp/225.1.4.79:1108
+http://144.255.31.40:6688/udp/239.21.1.156:5002
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://180.105.201.135:9981/rtp/239.49.8.55:9822
+http://113.119.25.53:58888/udp/239.77.0.136:5146
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://180.105.201.135:9981/rtp/239.49.8.135:6000
+http://114.254.37.254:18888/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://121.231.100.196:8095/rtp/239.49.8.135:6000
+http://115.171.80.52:1688/rtp/225.1.8.12:8124
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://114.107.44.80:8188/rtp/238.1.78.242:7808
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://27.191.202.133:19999/rtp/239.254.200.161:6000
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://144.255.31.40:6688/udp/239.21.1.156:5002
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://111.162.204.64:8686/rtp/225.1.2.193:5002
+http://180.105.201.135:9981/rtp/239.49.8.135:6000
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://114.241.251.105:4022/rtp/239.3.1.124:8128
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://183.236.43.98:4013/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://115.58.216.239:4000/rtp/225.1.4.113:1293
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://121.29.141.237:4022/rtp/239.253.92.13:8008
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://144.255.31.40:6688/udp/239.21.2.3:5002
+http://113.119.25.53:58888/udp/239.253.43.196:5146
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://220.176.218.76:9000/udp/239.252.219.139:5140
+http://144.255.32.146:8288/udp/239.21.2.3:5002
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://114.100.195.41:4022/rtp/238.1.79.35:4392
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
+http://27.191.202.133:19999/rtp/239.254.200.9:8264
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://223.198.242.180:4000/rtp/239.253.64.59:5140
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
+http://144.255.31.40:6688/udp/239.21.2.3:5002
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://114.107.44.80:8188/rtp/238.1.79.35:4392
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://121.29.141.237:4022/rtp/239.253.92.198:6063
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://115.58.216.239:4000/rtp/225.1.4.80:1109
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://114.241.251.105:4022/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://114.254.37.254:18888/rtp/239.3.1.65:8132
+http://121.29.141.237:4022/rtp/239.253.92.198:6063
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://180.105.201.135:9981/rtp/239.49.8.136:6000
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://180.105.201.135:9981/rtp/239.49.8.56:9826
+http://113.119.25.53:58888/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://144.255.31.40:6688/udp/239.21.1.157:5002
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://220.176.218.76:9000/udp/239.252.220.92:5140
+http://114.254.37.254:18888/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
+http://223.198.242.180:4000/rtp/239.253.64.115:5140
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
+http://27.191.202.133:19999/rtp/239.254.200.162:6000
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
+http://114.107.44.80:8188/rtp/238.1.78.243:7816
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://36.46.98.111:8025/rtp/239.112.205.91:5140
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://113.119.25.53:58888/udp/239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://111.162.204.64:8686/rtp/225.1.2.194:5002
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://114.241.251.105:4022/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://113.119.25.53:58888/udp/239.77.1.239:5146
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://115.58.216.239:4000/rtp/225.1.4.216:1269
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://114.107.44.80:8188/rtp/238.1.78.222:7648
+http://115.171.80.52:1688/rtp/225.1.8.14:8132
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://121.29.141.237:4022/rtp/239.253.93.154:6322
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://114.241.251.105:4022/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://36.46.98.111:8025/rtp/239.112.205.214:5140
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://220.176.218.76:9000/udp/239.252.219.79:5140
+http://111.113.88.146:2000/rtp/239.121.4.202:9208
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://114.254.37.254:18888/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://114.107.44.80:8188/rtp/238.1.78.222:7648
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://220.176.218.76:9000/udp/239.252.219.79:5140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://106.59.2.207:55555/rtp/239.200.201.112:8496
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://111.162.204.64:8686/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://223.198.242.180:4000/rtp/239.253.64.72:5140
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://111.162.204.64:8686/rtp/225.1.2.237:5002
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://113.119.25.53:58888/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://114.241.251.105:4022/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://36.46.98.111:8025/rtp/239.111.205.134:5140
+http://106.59.2.207:55555/rtp/239.200.200.193:8776
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
+http://106.59.2.153:55555/rtp/239.200.200.193:8776
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://223.198.242.180:4000/rtp/239.253.64.126:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
+http://113.119.25.53:58888/udp/239.77.0.165:5146
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://223.198.242.180:4000/rtp/239.253.64.251:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://106.59.2.207:55555/rtp/239.200.200.193:8776
+http://111.162.204.64:8686/rtp/225.1.2.237:5002
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://220.176.218.76:9000/udp/239.252.220.237:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://111.113.88.146:2000/rtp/239.121.4.122:8008
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://106.59.2.153:55555/rtp/239.200.200.193:8776
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://111.162.204.64:8686/rtp/225.1.2.52:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://121.29.141.237:4022/rtp/239.253.93.150:6318
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://115.58.216.239:4000/rtp/225.1.4.226:2506
+http://180.105.201.135:9981/rtp/239.49.8.52:9810
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://180.105.201.135:9981/rtp/239.49.8.132:6000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://121.231.100.196:8095/rtp/239.49.8.52:9810
+http://36.46.98.111:8025/rtp/239.112.205.211:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://114.107.44.80:8188/rtp/238.1.78.178:7296
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://180.105.201.135:9981/rtp/239.49.8.52:9810
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://27.191.202.133:19999/rtp/239.254.201.120:8144
+http://144.255.31.40:6688/udp/239.21.1.186:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://223.198.242.180:4000/rtp/239.253.64.67:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://36.46.98.111:8025/rtp/239.112.205.211:5140
+http://220.176.218.76:9000/udp/239.252.220.192:5140
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
+http://114.254.37.254:18888/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
+http://115.171.80.52:1688/rtp/225.1.8.17:8144
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
+http://113.119.25.53:58888/udp/239.77.1.121:5146
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
 http://121.29.141.237:4022/rtp/239.253.93.134:6631
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
-http://220.176.218.76:9000/rtp/239.252.219.60:5140
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
-http://106.59.2.207:55555/rtp/239.200.200.202:8784
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
 http://114.100.195.41:4022/rtp/238.1.78.137:6968
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
 http://106.59.2.153:55555/rtp/239.200.200.202:8784
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
+http://220.176.218.76:9000/rtp/239.252.219.60:5140
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
 http://114.107.44.80:8188/rtp/238.1.78.137:6968
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="☘️央视频道",CCTV-4K
 http://183.236.43.98:4013/udp/239.77.0.194:5146
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="☘️央视频道",CHC动作电影
-http://115.58.216.239:4000/rtp/225.1.4.208:1261
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="☘️央视频道",CHC动作电影
 http://220.176.218.76:9000/udp/239.252.219.85:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="☘️央视频道",CHC家庭影院
 http://111.162.204.64:8686/rtp/225.1.1.213:5002
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="☘️央视频道",CHC家庭影院
-http://115.58.216.239:4000/rtp/225.1.4.209:1262
+http://106.59.2.207:55555/rtp/239.200.201.30:8140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="☘️央视频道",CHC家庭影院
 http://220.176.218.76:9000/udp/239.252.219.84:5140
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="☘️央视频道",CHC家庭影院
-http://106.59.2.207:55555/rtp/239.200.201.30:8140
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="☘️央视频道",CHC影迷电影
-http://115.58.216.239:4000/rtp/225.1.4.207:1260
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="☘️央视频道",CHC影迷电影
-http://220.176.218.76:9000/udp/239.252.219.83:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="☘️央视频道",CHC影迷电影
 http://106.59.2.153:55555/rtp/239.200.201.34:8148
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://183.236.43.98:4013/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://114.241.251.105:4022/rtp/239.3.1.137:8036
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://115.58.216.239:4000/rtp/225.1.4.84:1113
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://113.119.25.53:58888/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://27.191.202.133:19999/rtp/239.254.200.53:8036
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://180.105.201.135:9981/rtp/239.49.8.139:6000
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="☘️央视频道",CHC影迷电影
+http://220.176.218.76:9000/udp/239.252.219.83:5140
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
 http://180.105.201.135:9981/rtp/239.49.8.20:9618
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
-http://144.255.31.40:6688/udp/239.21.1.90:5002
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
 http://121.29.141.237:4022/rtp/239.253.92.90:8020
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://180.105.201.135:9981/rtp/239.49.8.139:6000
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://114.241.251.105:4022/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://144.255.31.40:6688/udp/239.21.1.90:5002
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://106.59.2.207:55555/udp/239.200.200.141:8724
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://36.46.98.111:8025/rtp/239.112.205.64:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://115.171.80.52:1688/udp/225.1.8.46:8036
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
 http://114.107.44.80:8188/rtp/238.1.78.164:7184
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://111.162.204.64:8686/rtp/225.1.1.114:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://113.119.25.53:58888/udp/239.77.1.5:5146
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://144.255.32.146:8288/udp/239.21.1.158:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://183.236.43.98:4013/udp/239.77.1.5:5146
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://180.105.201.135:9981/rtp/239.49.8.12:9418
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="☘️卫视频道",浙江卫视
+http://113.119.25.53:58888/udp/239.77.1.33:5146
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
 http://114.241.251.105:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
+http://121.29.141.237:4022/rtp/239.253.92.84:8015
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
+http://144.255.32.146:8288/udp/239.21.1.158:5002
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
 http://180.105.201.135:9981/rtp/239.49.8.142:6000
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://121.231.100.196:8095/rtp/239.49.8.142:6000
+http://180.105.201.135:9981/rtp/239.49.8.12:9418
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://115.58.216.239:4000/rtp/225.1.4.82:1111
+http://36.46.98.111:8025/rtp/239.112.205.62:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
-http://114.100.195.41:4022/rtp/238.1.78.160:7152
+http://111.162.204.64:8686/rtp/225.1.1.114:5002
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
+http://106.59.2.153:55555/rtp/239.200.200.6:8012
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
+http://27.191.202.133:19999/rtp/239.254.200.48:8012
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="☘️卫视频道",湖南卫视
+http://144.255.31.40:6688/udp/239.21.1.158:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://183.236.43.98:4013/udp/239.77.1.151:5146
+http://111.162.204.64:8686/rtp/225.1.1.113:5002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
 http://180.105.201.135:9981/rtp/239.49.8.11:9414
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://111.162.204.64:8686/rtp/225.1.1.113:5002
+http://121.29.141.237:4022/rtp/239.253.92.87:8014
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
 http://180.105.201.135:9981/rtp/239.49.8.141:6000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://183.236.43.98:4013/udp/239.77.1.4:5146
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://115.58.216.239:4000/rtp/225.1.4.81:1110
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://121.29.141.237:4022/rtp/239.253.92.87:8014
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
-http://144.255.31.40:6688/udp/239.21.1.88:5002
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
 http://114.241.251.105:4022/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://121.29.141.237:4022/rtp/239.253.92.89:8019
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://111.162.204.64:8686/rtp/225.1.2.31:5002
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://183.236.43.98:4013/udp/239.77.1.218:5146
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://115.58.216.239:4000/rtp/225.1.4.85:1114
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
+http://36.46.98.111:8025/rtp/239.112.205.65:5140
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
+http://106.59.2.153:55555/rtp/239.200.200.5:8024
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
+http://113.119.25.53:58888/udp/239.77.1.151:5146
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="☘️卫视频道",北京卫视
+http://114.254.37.254:18888/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
 http://114.241.251.105:4022/rtp/239.3.1.136:8032
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://144.255.32.146:8288/udp/239.21.1.111:5002
+http://121.29.141.237:4022/rtp/239.253.92.89:8019
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://180.105.201.135:9981/rtp/239.49.8.17:9606
+http://144.255.32.146:8288/udp/239.21.1.111:5002
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
 http://180.105.201.135:9981/rtp/239.49.8.140:6000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://121.231.100.196:8095/rtp/239.49.8.140:6000
+http://180.105.201.135:9981/rtp/239.49.8.17:9606
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
-http://121.231.100.196:8095/rtp/239.49.8.17:9606
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
-http://121.29.141.237:4022/rtp/239.253.92.88:8018
+http://36.46.98.111:8025/rtp/239.112.205.61:5140
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
+http://106.59.2.153:55555/udp/239.200.200.8:8032
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
+http://106.59.2.207:55555/udp/239.200.200.8:8032
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
+http://114.254.37.254:18888/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="☘️卫视频道",东方卫视
+http://114.100.195.41:4022/rtp/238.1.78.163:7176
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
 http://180.105.201.135:9981/rtp/239.49.8.138:6000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
-http://114.241.251.105:4022/rtp/239.3.1.135:8028
+http://121.29.141.237:4022/rtp/239.253.92.88:8018
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
 http://180.105.201.135:9981/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
 http://144.255.32.146:8288/udp/239.21.1.89:5002
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
-http://115.58.216.239:4000/rtp/225.1.4.83:1112
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
-http://223.198.242.180:4000/rtp/239.253.64.202:5140
+http://114.241.251.105:4022/rtp/239.3.1.135:8028
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
 http://36.46.98.111:8025/rtp/239.112.205.63:5140
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
-http://27.191.202.133:19999/rtp/239.254.200.51:8028
+http://114.254.37.254:18888/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
+http://114.107.44.80:8188/rtp/238.1.78.165:7192
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
 http://114.100.195.41:4022/rtp/238.1.78.165:7192
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="☘️卫视频道",江苏卫视
+http://220.176.218.76:9000/udp/239.252.219.214:5140
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
-http://183.236.43.98:4013/udp/239.77.0.130:5146
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
-http://114.241.251.105:4022/rtp/239.3.1.134:8020
+http://121.29.141.237:4022/rtp/239.253.92.86:8017
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
 http://144.255.32.146:8288/udp/239.21.1.93:5002
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
-http://115.58.216.239:4000/rtp/225.1.4.90:1119
+http://114.241.251.105:4022/rtp/239.3.1.134:8020
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
 http://180.105.201.135:9981/rtp/239.49.8.15:9430
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
-http://121.29.141.237:4022/rtp/239.253.92.86:8017
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
 http://180.105.201.135:9981/rtp/239.49.8.145:6000
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
-http://223.198.242.180:4000/rtp/239.253.64.203:5140
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
 http://36.46.98.111:8025/rtp/239.112.205.67:5140
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
+http://106.59.2.153:55555/rtp/239.200.200.67:8776
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
+http://113.119.25.53:58888/udp/239.77.1.3:5146
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️卫视频道",深圳卫视
+http://223.198.242.180:4000/rtp/239.253.64.203:5140
 #EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/镜电视新闻台.png" group-title="☘️台湾频道",镜电视新闻台
 https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8?token=tmxk
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="☘️台湾频道",东森新闻
@@ -769,8 +759,6 @@ https://hilay.tv/l/hgtv
 https://jmp2.uk/stvp-IT900003FU
 #EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="☘️香港频道",Kaloopy TV
 https://hilay.tv/l/kaloopy
-#EXTINF:-1 tvg-name="Miami TV Mexico (1080p)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Miami TV Mexico (1080p).png" group-title="☘️香港频道",Miami TV Mexico (1080p)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 tvg-name="Playboy TV Latin America (1080p)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy TV Latin America (1080p).png" group-title="☘️香港频道",Playboy TV Latin America (1080p)
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News Live.png" group-title="☘️国际频道",ABC News Live
@@ -789,6 +777,8 @@ https://a1xs.vip/300016
 https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=a80d0869-c6c0-4efc-ad81-24f330067c1b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News Live.png" group-title="☘️国际频道",ABC News Live
 https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=7a332caa-d09c-4d54-99bd-3999017a5953&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News Live.png" group-title="☘️国际频道",ABC News Live
+https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_web_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=&ads._fw_did=b6f34c80-d40b-49b4-a16d-ad7553e63c32&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
 https://jmp2.uk/USBA300024TN
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
@@ -825,6 +815,8 @@ https://jmp2.uk/stvp-US4000033L
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:20d5fee1-599d-4c64-9a01-90e3bb40e765&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News.png" group-title="☘️国际频道",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:66fd32df-87b2-4838-80de-3ad0c57d99ee&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News.png" group-title="☘️国际频道",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:d3bab00a-2946-433f-a5c7-54e0b11bb7e5&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN International.png" group-title="☘️国际频道",CNN International
 https://hilay.tv/l/cnninternational
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky News.png" group-title="☘️国际频道",Sky News
@@ -869,6 +861,8 @@ https://jmp2.uk/stvp-CA36000019W
 https://jmp2.uk/stvp-US3600003R7
 #EXTINF:-1 tvg-name="The NBA Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/The NBA Channel.png" group-title="☘️国际频道",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=abceb77c-34c6-486a-be08-5ea11f7f9344&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="The NBA Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/The NBA Channel.png" group-title="☘️国际频道",The NBA Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=537de28c-e78c-4ec9-b79a-3bb621541d31&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Combat.png" group-title="☘️国际频道",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Combat.png" group-title="☘️国际频道",Swerve Combat
@@ -885,6 +879,8 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-61f04d2bb01a6e8df3f72902.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=d0aed350-8ce4-4d26-b9fc-f34bae1978f5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Combat.png" group-title="☘️国际频道",Swerve Combat
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=a37fc343-ef37-4ae3-9f02-41dd70782142&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="Swerve Combat" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Swerve Combat.png" group-title="☘️国际频道",Swerve Combat
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696&ads._fw_ifa_type=&ads._fw_did=bedc6a06-a910-4291-9188-6a11f81c854a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SwerveTV&ads.csid=xumo_web_SwerveTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3510&ads.xumo_contentName=SwerveTV&ads.xumo_providerId=3510&ads.xumo_providerName=SwerveTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991696&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PFL MMA.png" group-title="☘️国际频道",PFL MMA
 https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
 #EXTINF:-1 tvg-name="PFL MMA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PFL MMA.png" group-title="☘️国际频道",PFL MMA
@@ -963,6 +959,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=3d1b1caa-d378-4951-8a48-768ad62f2942&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Scares by Shudder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Scares by Shudder.png" group-title="☘️国际频道",Scares by Shudder
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=bd01be5c-ac99-40a6-9434-889ee72ed3df&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="Scares by Shudder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Scares by Shudder.png" group-title="☘️国际频道",Scares by Shudder
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349&ads.channelId=99951349&ads.csid=xumo_web_AMCScaresbyShudder_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_ifa_type=&ads._fw_did=9a3e31b5-8749-4aad-958c-438edf9bff49&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4104&ads.xumo_contentName=AMCScaresbyShudder&ads.xumo_providerId=4104&ads.xumo_providerName=AMCScaresbyShudder&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
 https://jmp2.uk/USBD270001633
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
@@ -981,6 +979,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u
 https://live-content.xumo.com/2777/content/XM0CNY3QGHUMCI/28618844/master.m3u8
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
 https://live-content.xumo.com/2777/content/XM0XZAVDYLQKM3/25241068/master.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
+https://live-content.xumo.com/2777/content/XM01NAZN5H5NPP/28004413/master.m3u8
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
 https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
@@ -991,6 +991,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=6893ee49-5367-4554-8345-77854edfadcb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=f4379b4b-91ee-43a5-891e-d883f0b184d6&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
+https://dbrb49pjoymg4.cloudfront.net/10001/99951251/hls/playlist.m3u8?ads.xumo_channelId=99951251&ads._fw_ifa_type=&ads._fw_did=9dc5c93d-0670-438e-a319-db71aa23b0b2&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=LionsgateMovieSphere&ads.csid=xumo_web_LionsgateMovieSphere_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3955&ads.xumo_contentName=LionsgateMovieSphere&ads.xumo_providerId=3955&ads.xumo_providerName=LionsgateMovieSphere&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951251&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="☘️国际频道",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=bd963c70-a442-4508-8525-880fd92d8c55&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="☘️国际频道",Hi-Yah!
@@ -999,6 +1001,8 @@ https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=8948b280-0065-4679-8a99-ae9d67869579&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="☘️国际频道",Hi-Yah!
 https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=b2626704-9dc7-460d-be34-5de804c908f4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
+#EXTINF:-1 tvg-name="Hi-Yah!" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Hi-Yah!.png" group-title="☘️国际频道",Hi-Yah!
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_web_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=&ads._fw_did=7a7bb007-b56e-4b94-bfb0-65ebf2a912e3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 #EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="☘️国际频道",Shades of Black
 https://jmp2.uk/USBC1000004G8
 #EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="☘️国际频道",Shades of Black
@@ -1017,8 +1021,8 @@ https://jmp2.uk/stvp-USBC1000004G8
 https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=742cd0ae-7b1a-41dc-89cd-1e4e4003b246&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="☘️国际频道",Shades of Black
 https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=dcb681f5-a513-49de-a7c7-37160b912681&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-name="Miami TV Jenny Live (720p) [Not 24/7]" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Miami TV Jenny Live (720p) [Not 24/7].png" group-title="☘️国际频道",Miami TV Jenny Live (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="☘️国际频道",Shades of Black
+https://d3a6p9masi26ag.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=9d49be60-ee7f-41e0-8070-f398c9951a33&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-name="BTV Киска (+18)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV Киска (+18).png" group-title="☘️国际频道",BTV Киска (+18)
 http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14003/index.m3u8
 #EXTINF:-1 tvg-name="香蕉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香蕉.png" group-title="俄语频道",香蕉
@@ -1385,8 +1389,6 @@ http://tvmate.icu:8080/C4Ft1d/042942/159960
 http://tvmate.icu:8080/60023165/94429242/159961
 #EXTINF:-1 tvg-name="PORNBOX: BLACKED" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BLACKED.png" group-title="泰语频道",PORNBOX: BLACKED
 http://tvmate.icu:8080/60023165/94429242/159962
-#EXTINF:-1 tvg-name="PORNBOX: BLACKED" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BLACKED.png" group-title="泰语频道",PORNBOX: BLACKED
-http://tvmate.icu:8080/C4Ft1d/042942/159962
 #EXTINF:-1 tvg-name="PORNBOX: BLOW ME POV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BLOW ME POV.png" group-title="泰语频道",PORNBOX: BLOW ME POV
 http://tvmate.icu:8080/60023165/94429242/159963
 #EXTINF:-1 tvg-name="PORNBOX: BOX OF PORN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BOX OF PORN.png" group-title="泰语频道",PORNBOX: BOX OF PORN
@@ -1534,9 +1536,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/160014
 #EXTINF:-1 tvg-name="PORNBOX: MOMMY BLOWS BEST" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MOMMY BLOWS BEST.png" group-title="泰语频道",PORNBOX: MOMMY BLOWS BEST
 http://tvmate.icu:8080/60023165/94429242/160015
 #EXTINF:-1 tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MUST NOT FAP.png" group-title="泰语频道",PORNBOX: MUST NOT FAP
-http://tvmate.icu:8080/C4Ft1d/042942/160016
-#EXTINF:-1 tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MUST NOT FAP.png" group-title="泰语频道",PORNBOX: MUST NOT FAP
 http://tvmate.icu:8080/60023165/94429242/160016
+#EXTINF:-1 tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MUST NOT FAP.png" group-title="泰语频道",PORNBOX: MUST NOT FAP
+http://tvmate.icu:8080/C4Ft1d/042942/160016
 #EXTINF:-1 tvg-name="PORNBOX: MY DIRTY HOBBY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY DIRTY HOBBY.png" group-title="泰语频道",PORNBOX: MY DIRTY HOBBY
 http://tvmate.icu:8080/60023165/94429242/160017
 #EXTINF:-1 tvg-name="PORNBOX: MY FAMILY PIES" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY FAMILY PIES.png" group-title="泰语频道",PORNBOX: MY FAMILY PIES
@@ -1549,18 +1551,18 @@ http://tvmate.icu:8080/60023165/94429242/160019
 http://tvmate.icu:8080/60023165/94429242/160020
 #EXTINF:-1 tvg-name="PORNBOX: MY PERVY FAMILY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY PERVY FAMILY.png" group-title="泰语频道",PORNBOX: MY PERVY FAMILY
 http://tvmate.icu:8080/C4Ft1d/042942/160020
-#EXTINF:-1 tvg-name="PORNBOX: MY TINY WISH" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY TINY WISH.png" group-title="泰语频道",PORNBOX: MY TINY WISH
-http://tvmate.icu:8080/60023165/94429242/160021
-#EXTINF:-1 tvg-name="PORNBOX: MYLF" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MYLF.png" group-title="泰语频道",PORNBOX: MYLF
-http://tvmate.icu:8080/C4Ft1d/042942/160022
 #EXTINF:-1 tvg-name="PORNBOX: MYLF" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MYLF.png" group-title="泰语频道",PORNBOX: MYLF
 http://tvmate.icu:8080/60023165/94429242/160022
+#EXTINF:-1 tvg-name="PORNBOX: MYLF" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MYLF.png" group-title="泰语频道",PORNBOX: MYLF
+http://tvmate.icu:8080/C4Ft1d/042942/160022
 #EXTINF:-1 tvg-name="PORNBOX: NEW SENSATIONS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NEW SENSATIONS.png" group-title="泰语频道",PORNBOX: NEW SENSATIONS
 http://tvmate.icu:8080/60023165/94429242/160023
 #EXTINF:-1 tvg-name="PORNBOX: NF BUSTY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NF BUSTY.png" group-title="泰语频道",PORNBOX: NF BUSTY
-http://tvmate.icu:8080/C4Ft1d/042942/160024
-#EXTINF:-1 tvg-name="PORNBOX: NF BUSTY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NF BUSTY.png" group-title="泰语频道",PORNBOX: NF BUSTY
 http://tvmate.icu:8080/60023165/94429242/160024
+#EXTINF:-1 tvg-name="PORNBOX: NF BUSTY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NF BUSTY.png" group-title="泰语频道",PORNBOX: NF BUSTY
+http://tvmate.icu:8080/C4Ft1d/042942/160024
+#EXTINF:-1 tvg-name="PORNBOX: NUBILE FILMS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NUBILE FILMS.png" group-title="泰语频道",PORNBOX: NUBILE FILMS
+http://tvmate.icu:8080/60023165/94429242/160025
 #EXTINF:-1 tvg-name="PORNBOX: NURU MASSAGE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NURU MASSAGE.png" group-title="泰语频道",PORNBOX: NURU MASSAGE
 http://tvmate.icu:8080/60023165/94429242/160026
 #EXTINF:-1 tvg-name="PORNBOX: NURU MASSAGE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NURU MASSAGE.png" group-title="泰语频道",PORNBOX: NURU MASSAGE
@@ -1577,12 +1579,8 @@ http://tvmate.icu:8080/60023165/94429242/160029
 http://tvmate.icu:8080/60023165/94429242/160030
 #EXTINF:-1 tvg-name="PORNBOX: PORN WORLD HARDCORE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PORN WORLD HARDCORE.png" group-title="泰语频道",PORNBOX: PORN WORLD HARDCORE
 http://tvmate.icu:8080/C4Ft1d/042942/160030
-#EXTINF:-1 tvg-name="PORNBOX: PORNHOCHIC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PORNHOCHIC.png" group-title="泰语频道",PORNBOX: PORNHOCHIC
-http://tvmate.icu:8080/60023165/94429242/160031
 #EXTINF:-1 tvg-name="PORNBOX: POVD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: POVD.png" group-title="泰语频道",PORNBOX: POVD
 http://tvmate.icu:8080/60023165/94429242/160032
-#EXTINF:-1 tvg-name="PORNBOX: POVD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: POVD.png" group-title="泰语频道",PORNBOX: POVD
-http://tvmate.icu:8080/C4Ft1d/042942/160032
 #EXTINF:-1 tvg-name="PORNBOX: PRENCESS CUM" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PRENCESS CUM.png" group-title="泰语频道",PORNBOX: PRENCESS CUM
 http://tvmate.icu:8080/60023165/94429242/160033
 #EXTINF:-1 tvg-name="PORNBOX: PRIVATE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PRIVATE.png" group-title="泰语频道",PORNBOX: PRIVATE
@@ -1592,15 +1590,15 @@ http://tvmate.icu:8080/C4Ft1d/042942/160034
 #EXTINF:-1 tvg-name="PORNBOX: PROPERTY SEX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PROPERTY SEX.png" group-title="泰语频道",PORNBOX: PROPERTY SEX
 http://tvmate.icu:8080/60023165/94429242/160035
 #EXTINF:-1 tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PUBLIC AGENT.png" group-title="泰语频道",PORNBOX: PUBLIC AGENT
-http://tvmate.icu:8080/C4Ft1d/042942/160036
-#EXTINF:-1 tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PUBLIC AGENT.png" group-title="泰语频道",PORNBOX: PUBLIC AGENT
 http://tvmate.icu:8080/60023165/94429242/160036
+#EXTINF:-1 tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PUBLIC AGENT.png" group-title="泰语频道",PORNBOX: PUBLIC AGENT
+http://tvmate.icu:8080/C4Ft1d/042942/160036
 #EXTINF:-1 tvg-name="PORNBOX: PURE MATURE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PURE MATURE.png" group-title="泰语频道",PORNBOX: PURE MATURE
 http://tvmate.icu:8080/60023165/94429242/160037
 #EXTINF:-1 tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REAL DIRTY VIDEOS.png" group-title="泰语频道",PORNBOX: REAL DIRTY VIDEOS
-http://tvmate.icu:8080/C4Ft1d/042942/160038
-#EXTINF:-1 tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REAL DIRTY VIDEOS.png" group-title="泰语频道",PORNBOX: REAL DIRTY VIDEOS
 http://tvmate.icu:8080/60023165/94429242/160038
+#EXTINF:-1 tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REAL DIRTY VIDEOS.png" group-title="泰语频道",PORNBOX: REAL DIRTY VIDEOS
+http://tvmate.icu:8080/C4Ft1d/042942/160038
 #EXTINF:-1 tvg-name="PORNBOX: REALITY JUNKIES" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REALITY JUNKIES.png" group-title="泰语频道",PORNBOX: REALITY JUNKIES
 http://tvmate.icu:8080/60023165/94429242/160040
 #EXTINF:-1 tvg-name="PORNBOX: REALITY KINGS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REALITY KINGS.png" group-title="泰语频道",PORNBOX: REALITY KINGS
@@ -1637,8 +1635,6 @@ http://tvmate.icu:8080/60023165/94429242/160051
 http://tvmate.icu:8080/C4Ft1d/042942/160051
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: ANGELA WHITE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: ANGELA WHITE.png" group-title="泰语频道",STARS EXCLUSIVE: ANGELA WHITE
 http://tvmate.icu:8080/60023165/94429242/160052
-#EXTINF:-1 tvg-name="STARS EXCLUSIVE: ARIANA MARIE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: ARIANA MARIE.png" group-title="泰语频道",STARS EXCLUSIVE: ARIANA MARIE
-http://tvmate.icu:8080/60023165/94429242/160053
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: AUGUST AMES" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: AUGUST AMES.png" group-title="泰语频道",STARS EXCLUSIVE: AUGUST AMES
 http://tvmate.icu:8080/60023165/94429242/160054
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: AUTUMN FALLS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: AUTUMN FALLS.png" group-title="泰语频道",STARS EXCLUSIVE: AUTUMN FALLS
@@ -1648,9 +1644,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/160055
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: BRANDI LOVE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: BRANDI LOVE.png" group-title="泰语频道",STARS EXCLUSIVE: BRANDI LOVE
 http://tvmate.icu:8080/60023165/94429242/160056
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: DANI DANIELS.png" group-title="泰语频道",STARS EXCLUSIVE: DANI DANIELS
-http://tvmate.icu:8080/C4Ft1d/042942/160057
-#EXTINF:-1 tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: DANI DANIELS.png" group-title="泰语频道",STARS EXCLUSIVE: DANI DANIELS
 http://tvmate.icu:8080/60023165/94429242/160057
+#EXTINF:-1 tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: DANI DANIELS.png" group-title="泰语频道",STARS EXCLUSIVE: DANI DANIELS
+http://tvmate.icu:8080/C4Ft1d/042942/160057
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: DANI JENSEN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: DANI JENSEN.png" group-title="泰语频道",STARS EXCLUSIVE: DANI JENSEN
 http://tvmate.icu:8080/60023165/94429242/160058
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: ELSA JEAN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: ELSA JEAN.png" group-title="泰语频道",STARS EXCLUSIVE: ELSA JEAN
@@ -1678,9 +1674,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/160065
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: LENA PAUL" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: LENA PAUL.png" group-title="泰语频道",STARS EXCLUSIVE: LENA PAUL
 http://tvmate.icu:8080/60023165/94429242/160066
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: LISA ANN.png" group-title="泰语频道",STARS EXCLUSIVE: LISA ANN
-http://tvmate.icu:8080/C4Ft1d/042942/160067
-#EXTINF:-1 tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: LISA ANN.png" group-title="泰语频道",STARS EXCLUSIVE: LISA ANN
 http://tvmate.icu:8080/60023165/94429242/160067
+#EXTINF:-1 tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: LISA ANN.png" group-title="泰语频道",STARS EXCLUSIVE: LISA ANN
+http://tvmate.icu:8080/C4Ft1d/042942/160067
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: MADISON IVY" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: MADISON IVY.png" group-title="泰语频道",STARS EXCLUSIVE: MADISON IVY
 http://tvmate.icu:8080/60023165/94429242/160068
 #EXTINF:-1 tvg-name="STARS EXCLUSIVE: MIA MALKOVA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/STARS EXCLUSIVE: MIA MALKOVA.png" group-title="泰语频道",STARS EXCLUSIVE: MIA MALKOVA
@@ -1706,8 +1702,6 @@ http://tvmate.icu:8080/C4Ft1d/042942/160075
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: CHERRY GRACE" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: CHERRY GRACE.png" group-title="泰语频道",VERIFIED AMATEURS: CHERRY GRACE
 http://tvmate.icu:8080/60023165/94429242/160076
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: DIANA DANIELS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: DIANA DANIELS.png" group-title="泰语频道",VERIFIED AMATEURS: DIANA DANIELS
-http://tvmate.icu:8080/60023165/94429242/160078
-#EXTINF:-1 tvg-name="VERIFIED AMATEURS: DIANA DANIELS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: DIANA DANIELS.png" group-title="泰语频道",VERIFIED AMATEURS: DIANA DANIELS
 http://tvmate.icu:8080/C4Ft1d/042942/160078
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: ELLAKAI" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: ELLAKAI.png" group-title="泰语频道",VERIFIED AMATEURS: ELLAKAI
 http://tvmate.icu:8080/60023165/94429242/160079
@@ -1724,9 +1718,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/160082
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: LUXURYGIRL" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: LUXURYGIRL.png" group-title="泰语频道",VERIFIED AMATEURS: LUXURYGIRL
 http://tvmate.icu:8080/60023165/94429242/160083
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: MIKANIKA69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: MIKANIKA69.png" group-title="泰语频道",VERIFIED AMATEURS: MIKANIKA69
-http://tvmate.icu:8080/60023165/94429242/160084
-#EXTINF:-1 tvg-name="VERIFIED AMATEURS: MIKANIKA69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: MIKANIKA69.png" group-title="泰语频道",VERIFIED AMATEURS: MIKANIKA69
 http://tvmate.icu:8080/C4Ft1d/042942/160084
+#EXTINF:-1 tvg-name="VERIFIED AMATEURS: MIKANIKA69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: MIKANIKA69.png" group-title="泰语频道",VERIFIED AMATEURS: MIKANIKA69
+http://tvmate.icu:8080/60023165/94429242/160084
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: MINI DIVA" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: MINI DIVA.png" group-title="泰语频道",VERIFIED AMATEURS: MINI DIVA
 http://tvmate.icu:8080/60023165/94429242/160085
 #EXTINF:-1 tvg-name="VERIFIED AMATEURS: MOLLYREDWOLF" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/VERIFIED AMATEURS: MOLLYREDWOLF.png" group-title="泰语频道",VERIFIED AMATEURS: MOLLYREDWOLF
@@ -1793,6 +1787,8 @@ http://tvmate.icu:8080/60023165/94429242/215443
 http://tvmate.icu:8080/C4Ft1d/042942/215443
 #EXTINF:-1 tvg-name="X4 | Alexis Fawx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Alexis Fawx.png" group-title="泰语频道",X4 | Alexis Fawx
 http://tvmate.icu:8080/60023165/94429242/215444
+#EXTINF:-1 tvg-name="X4 | Alexis Texas" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Alexis Texas.png" group-title="泰语频道",X4 | Alexis Texas
+http://tvmate.icu:8080/60023165/94429242/215446
 #EXTINF:-1 tvg-name="X4 | Alina Lopez" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Alina Lopez.png" group-title="泰语频道",X4 | Alina Lopez
 http://tvmate.icu:8080/60023165/94429242/215447
 #EXTINF:-1 tvg-name="X4 | Alina Lopez" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Alina Lopez.png" group-title="泰语频道",X4 | Alina Lopez
@@ -1838,9 +1834,9 @@ http://tvmate.icu:8080/60023165/94429242/215464
 #EXTINF:-1 tvg-name="X4 | Athena Faris" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Athena Faris.png" group-title="泰语频道",X4 | Athena Faris
 http://tvmate.icu:8080/60023165/94429242/215466
 #EXTINF:-1 tvg-name="X4 | Aunt Judys XXX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Aunt Judys XXX.png" group-title="泰语频道",X4 | Aunt Judys XXX
-http://tvmate.icu:8080/C4Ft1d/042942/215467
-#EXTINF:-1 tvg-name="X4 | Aunt Judys XXX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Aunt Judys XXX.png" group-title="泰语频道",X4 | Aunt Judys XXX
 http://tvmate.icu:8080/60023165/94429242/215467
+#EXTINF:-1 tvg-name="X4 | Aunt Judys XXX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Aunt Judys XXX.png" group-title="泰语频道",X4 | Aunt Judys XXX
+http://tvmate.icu:8080/C4Ft1d/042942/215467
 #EXTINF:-1 tvg-name="X4 | Autumn Falls" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Autumn Falls.png" group-title="泰语频道",X4 | Autumn Falls
 http://tvmate.icu:8080/60023165/94429242/215468
 #EXTINF:-1 tvg-name="X4 | Ava Addams" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Ava Addams.png" group-title="泰语频道",X4 | Ava Addams
@@ -1857,6 +1853,8 @@ http://tvmate.icu:8080/C4Ft1d/042942/215471
 http://tvmate.icu:8080/60023165/94429242/215473
 #EXTINF:-1 tvg-name="X4 | BBC Pie" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | BBC Pie.png" group-title="泰语频道",X4 | BBC Pie
 http://tvmate.icu:8080/C4Ft1d/042942/215473
+#EXTINF:-1 tvg-name="X4 | BBW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | BBW.png" group-title="泰语频道",X4 | BBW
+http://tvmate.icu:8080/60023165/94429242/215474
 #EXTINF:-1 tvg-name="X4 | Bellamurr" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Bellamurr.png" group-title="泰语频道",X4 | Bellamurr
 http://tvmate.icu:8080/60023165/94429242/215476
 #EXTINF:-1 tvg-name="X4 | BFFs" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | BFFs.png" group-title="泰语频道",X4 | BFFs
@@ -1866,9 +1864,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/215477
 #EXTINF:-1 tvg-name="X4 | Big Ass" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Big Ass.png" group-title="泰语频道",X4 | Big Ass
 http://tvmate.icu:8080/60023165/94429242/215478
 #EXTINF:-1 tvg-name="X4 | Big Boobs" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Big Boobs.png" group-title="泰语频道",X4 | Big Boobs
-http://tvmate.icu:8080/C4Ft1d/042942/215479
-#EXTINF:-1 tvg-name="X4 | Big Boobs" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Big Boobs.png" group-title="泰语频道",X4 | Big Boobs
 http://tvmate.icu:8080/60023165/94429242/215479
+#EXTINF:-1 tvg-name="X4 | Big Boobs" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Big Boobs.png" group-title="泰语频道",X4 | Big Boobs
+http://tvmate.icu:8080/C4Ft1d/042942/215479
 #EXTINF:-1 tvg-name="X4 | BigTittyGothEgg" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | BigTittyGothEgg.png" group-title="泰语频道",X4 | BigTittyGothEgg
 http://tvmate.icu:8080/60023165/94429242/215480
 #EXTINF:-1 tvg-name="X4 | Black Money" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Black Money.png" group-title="泰语频道",X4 | Black Money
@@ -1878,9 +1876,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/215481
 #EXTINF:-1 tvg-name="X4 | Blacks On Boys" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blacks On Boys.png" group-title="泰语频道",X4 | Blacks On Boys
 http://tvmate.icu:8080/60023165/94429242/215482
 #EXTINF:-1 tvg-name="X4 | Blair Williams" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blair Williams.png" group-title="泰语频道",X4 | Blair Williams
-http://tvmate.icu:8080/C4Ft1d/042942/215483
-#EXTINF:-1 tvg-name="X4 | Blair Williams" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blair Williams.png" group-title="泰语频道",X4 | Blair Williams
 http://tvmate.icu:8080/60023165/94429242/215483
+#EXTINF:-1 tvg-name="X4 | Blair Williams" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blair Williams.png" group-title="泰语频道",X4 | Blair Williams
+http://tvmate.icu:8080/C4Ft1d/042942/215483
 #EXTINF:-1 tvg-name="X4 | Blake Blossom" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blake Blossom.png" group-title="泰语频道",X4 | Blake Blossom
 http://tvmate.icu:8080/60023165/94429242/215484
 #EXTINF:-1 tvg-name="X4 | Blaze Rager" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Blaze Rager.png" group-title="泰语频道",X4 | Blaze Rager
@@ -1895,8 +1893,8 @@ http://tvmate.icu:8080/60023165/94429242/215488
 http://tvmate.icu:8080/60023165/94429242/215489
 #EXTINF:-1 tvg-name="X4 | Bob Big Tula" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Bob Big Tula.png" group-title="泰语频道",X4 | Bob Big Tula
 http://tvmate.icu:8080/C4Ft1d/042942/215489
-#EXTINF:-1 tvg-name="X4 | Brandi Love" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Brandi Love.png" group-title="泰语频道",X4 | Brandi Love
-http://tvmate.icu:8080/60023165/94429242/215492
+#EXTINF:-1 tvg-name="X4 | Bondage" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Bondage.png" group-title="泰语频道",X4 | Bondage
+http://tvmate.icu:8080/60023165/94429242/215490
 #EXTINF:-1 tvg-name="X4 | Bratty Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Bratty Milf.png" group-title="泰语频道",X4 | Bratty Milf
 http://tvmate.icu:8080/60023165/94429242/215493
 #EXTINF:-1 tvg-name="X4 | Bratty Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Bratty Milf.png" group-title="泰语频道",X4 | Bratty Milf
@@ -1937,6 +1935,8 @@ http://tvmate.icu:8080/60023165/94429242/215506
 http://tvmate.icu:8080/60023165/94429242/215507
 #EXTINF:-1 tvg-name="X4 | Chuck Hunter" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Chuck Hunter.png" group-title="泰语频道",X4 | Chuck Hunter
 http://tvmate.icu:8080/C4Ft1d/042942/215507
+#EXTINF:-1 tvg-name="X4 | Close Up" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Close Up.png" group-title="泰语频道",X4 | Close Up
+http://tvmate.icu:8080/60023165/94429242/215508
 #EXTINF:-1 tvg-name="X4 | College" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | College.png" group-title="泰语频道",X4 | College
 http://tvmate.icu:8080/60023165/94429242/215509
 #EXTINF:-1 tvg-name="X4 | College" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | College.png" group-title="泰语频道",X4 | College
@@ -1951,10 +1951,6 @@ http://tvmate.icu:8080/60023165/94429242/215513
 http://tvmate.icu:8080/C4Ft1d/042942/215513
 #EXTINF:-1 tvg-name="X4 | Crystal Lust" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Crystal Lust.png" group-title="泰语频道",X4 | Crystal Lust
 http://tvmate.icu:8080/60023165/94429242/215514
-#EXTINF:-1 tvg-name="X4 | Crystal Rush" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Crystal Rush.png" group-title="泰语频道",X4 | Crystal Rush
-http://tvmate.icu:8080/60023165/94429242/215515
-#EXTINF:-1 tvg-name="X4 | Crystal Rush" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Crystal Rush.png" group-title="泰语频道",X4 | Crystal Rush
-http://tvmate.icu:8080/C4Ft1d/042942/215515
 #EXTINF:-1 tvg-name="X4 | Cum in Mouth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cum in Mouth.png" group-title="泰语频道",X4 | Cum in Mouth
 http://tvmate.icu:8080/60023165/94429242/215517
 #EXTINF:-1 tvg-name="X4 | Cum in Mouth" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cum in Mouth.png" group-title="泰语频道",X4 | Cum in Mouth
@@ -1962,9 +1958,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/215517
 #EXTINF:-1 tvg-name="X4 | Cumshot" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cumshot.png" group-title="泰语频道",X4 | Cumshot
 http://tvmate.icu:8080/60023165/94429242/215518
 #EXTINF:-1 tvg-name="X4 | Cutie Kim" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cutie Kim.png" group-title="泰语频道",X4 | Cutie Kim
-http://tvmate.icu:8080/60023165/94429242/215519
-#EXTINF:-1 tvg-name="X4 | Cutie Kim" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cutie Kim.png" group-title="泰语频道",X4 | Cutie Kim
 http://tvmate.icu:8080/C4Ft1d/042942/215519
+#EXTINF:-1 tvg-name="X4 | Cutie Kim" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Cutie Kim.png" group-title="泰语频道",X4 | Cutie Kim
+http://tvmate.icu:8080/60023165/94429242/215519
 #EXTINF:-1 tvg-name="X4 | Czech Soles" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Czech Soles.png" group-title="泰语频道",X4 | Czech Soles
 http://tvmate.icu:8080/60023165/94429242/215520
 #EXTINF:-1 tvg-name="X4 | Czrok" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Czrok.png" group-title="泰语频道",X4 | Czrok
@@ -1993,10 +1989,6 @@ http://tvmate.icu:8080/60023165/94429242/215529
 http://tvmate.icu:8080/C4Ft1d/042942/215529
 #EXTINF:-1 tvg-name="X4 | Digital Climaxxx" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Digital Climaxxx.png" group-title="泰语频道",X4 | Digital Climaxxx
 http://tvmate.icu:8080/60023165/94429242/215530
-#EXTINF:-1 tvg-name="X4 | Digital Playground" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Digital Playground.png" group-title="泰语频道",X4 | Digital Playground
-http://tvmate.icu:8080/60023165/94429242/215531
-#EXTINF:-1 tvg-name="X4 | Digital Playground" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Digital Playground.png" group-title="泰语频道",X4 | Digital Playground
-http://tvmate.icu:8080/C4Ft1d/042942/215531
 #EXTINF:-1 tvg-name="X4 | Dillion Harper" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Dillion Harper.png" group-title="泰语频道",X4 | Dillion Harper
 http://tvmate.icu:8080/60023165/94429242/215532
 #EXTINF:-1 tvg-name="X4 | Doghouse Digital" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Doghouse Digital.png" group-title="泰语频道",X4 | Doghouse Digital
@@ -2011,20 +2003,22 @@ http://tvmate.icu:8080/60023165/94429242/215535
 http://tvmate.icu:8080/C4Ft1d/042942/215535
 #EXTINF:-1 tvg-name="X4 | Egon Kowalski" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Egon Kowalski.png" group-title="泰语频道",X4 | Egon Kowalski
 http://tvmate.icu:8080/60023165/94429242/215536
-#EXTINF:-1 tvg-name="X4 | Elly Clutch" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Elly Clutch.png" group-title="泰语频道",X4 | Elly Clutch
-http://tvmate.icu:8080/60023165/94429242/215538
-#EXTINF:-1 tvg-name="X4 | Elsa Jean" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Elsa Jean.png" group-title="泰语频道",X4 | Elsa Jean
-http://tvmate.icu:8080/C4Ft1d/042942/215539
+#EXTINF:-1 tvg-name="X4 | Eliza Ibarra" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Eliza Ibarra.png" group-title="泰语频道",X4 | Eliza Ibarra
+http://tvmate.icu:8080/60023165/94429242/215537
+#EXTINF:-1 tvg-name="X4 | Eliza Ibarra" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Eliza Ibarra.png" group-title="泰语频道",X4 | Eliza Ibarra
+http://tvmate.icu:8080/C4Ft1d/042942/215537
 #EXTINF:-1 tvg-name="X4 | Elsa Jean" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Elsa Jean.png" group-title="泰语频道",X4 | Elsa Jean
 http://tvmate.icu:8080/60023165/94429242/215539
-#EXTINF:-1 tvg-name="X4 | Ema Karter" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Ema Karter.png" group-title="泰语频道",X4 | Ema Karter
-http://tvmate.icu:8080/60023165/94429242/215540
+#EXTINF:-1 tvg-name="X4 | Elsa Jean" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Elsa Jean.png" group-title="泰语频道",X4 | Elsa Jean
+http://tvmate.icu:8080/C4Ft1d/042942/215539
+#EXTINF:-1 tvg-name="X4 | Emanuelly Raquel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emanuelly Raquel.png" group-title="泰语频道",X4 | Emanuelly Raquel
+http://tvmate.icu:8080/60023165/94429242/215541
+#EXTINF:-1 tvg-name="X4 | Emanuelly Raquel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emanuelly Raquel.png" group-title="泰语频道",X4 | Emanuelly Raquel
+http://tvmate.icu:8080/C4Ft1d/042942/215541
 #EXTINF:-1 tvg-name="X4 | Emily Willis" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emily Willis.png" group-title="泰语频道",X4 | Emily Willis
 http://tvmate.icu:8080/60023165/94429242/215542
-#EXTINF:-1 tvg-name="X4 | Emma Fiore" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emma Fiore.png" group-title="泰语频道",X4 | Emma Fiore
-http://tvmate.icu:8080/60023165/94429242/215543
-#EXTINF:-1 tvg-name="X4 | Emma Fiore" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emma Fiore.png" group-title="泰语频道",X4 | Emma Fiore
-http://tvmate.icu:8080/C4Ft1d/042942/215543
+#EXTINF:-1 tvg-name="X4 | Emma Hix" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Emma Hix.png" group-title="泰语频道",X4 | Emma Hix
+http://tvmate.icu:8080/60023165/94429242/215544
 #EXTINF:-1 tvg-name="X4 | Estter Muniz" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Estter Muniz.png" group-title="泰语频道",X4 | Estter Muniz
 http://tvmate.icu:8080/60023165/94429242/215545
 #EXTINF:-1 tvg-name="X4 | Estter Muniz" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Estter Muniz.png" group-title="泰语频道",X4 | Estter Muniz
@@ -2053,10 +2047,6 @@ http://tvmate.icu:8080/60023165/94429242/215553
 http://tvmate.icu:8080/C4Ft1d/042942/215553
 #EXTINF:-1 tvg-name="X4 | Fisting" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Fisting.png" group-title="泰语频道",X4 | Fisting
 http://tvmate.icu:8080/60023165/94429242/215556
-#EXTINF:-1 tvg-name="X4 | Full" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Full.png" group-title="泰语频道",X4 | Full
-http://tvmate.icu:8080/60023165/94429242/215557
-#EXTINF:-1 tvg-name="X4 | Full" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Full.png" group-title="泰语频道",X4 | Full
-http://tvmate.icu:8080/C4Ft1d/042942/215557
 #EXTINF:-1 tvg-name="X4 | Futanari" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Futanari.png" group-title="泰语频道",X4 | Futanari
 http://tvmate.icu:8080/60023165/94429242/215558
 #EXTINF:-1 tvg-name="X4 | Gabbie Carter" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Gabbie Carter.png" group-title="泰语频道",X4 | Gabbie Carter
@@ -2065,18 +2055,14 @@ http://tvmate.icu:8080/60023165/94429242/215559
 http://tvmate.icu:8080/C4Ft1d/042942/215559
 #EXTINF:-1 tvg-name="X4 | Gangbang" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Gangbang.png" group-title="泰语频道",X4 | Gangbang
 http://tvmate.icu:8080/60023165/94429242/215560
-#EXTINF:-1 tvg-name="X4 | GentlyPerv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | GentlyPerv.png" group-title="泰语频道",X4 | GentlyPerv
-http://tvmate.icu:8080/60023165/94429242/215561
-#EXTINF:-1 tvg-name="X4 | GentlyPerv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | GentlyPerv.png" group-title="泰语频道",X4 | GentlyPerv
-http://tvmate.icu:8080/C4Ft1d/042942/215561
 #EXTINF:-1 tvg-name="X4 | German Scout" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | German Scout.png" group-title="泰语频道",X4 | German Scout
 http://tvmate.icu:8080/60023165/94429242/215562
 #EXTINF:-1 tvg-name="X4 | Gina Valentina" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Gina Valentina.png" group-title="泰语频道",X4 | Gina Valentina
 http://tvmate.icu:8080/60023165/94429242/215564
 #EXTINF:-1 tvg-name="X4 | Ginebra Bellucci" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Ginebra Bellucci.png" group-title="泰语频道",X4 | Ginebra Bellucci
-http://tvmate.icu:8080/C4Ft1d/042942/215565
-#EXTINF:-1 tvg-name="X4 | Ginebra Bellucci" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Ginebra Bellucci.png" group-title="泰语频道",X4 | Ginebra Bellucci
 http://tvmate.icu:8080/60023165/94429242/215565
+#EXTINF:-1 tvg-name="X4 | Ginebra Bellucci" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Ginebra Bellucci.png" group-title="泰语频道",X4 | Ginebra Bellucci
+http://tvmate.icu:8080/C4Ft1d/042942/215565
 #EXTINF:-1 tvg-name="X4 | Girl Cum" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Girl Cum.png" group-title="泰语频道",X4 | Girl Cum
 http://tvmate.icu:8080/60023165/94429242/215566
 #EXTINF:-1 tvg-name="X4 | GirlGirlXXX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | GirlGirlXXX.png" group-title="泰语频道",X4 | GirlGirlXXX
@@ -2087,16 +2073,14 @@ http://tvmate.icu:8080/C4Ft1d/042942/215567
 http://tvmate.icu:8080/60023165/94429242/215568
 #EXTINF:-1 tvg-name="X4 | Hailey Rose" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hailey Rose.png" group-title="泰语频道",X4 | Hailey Rose
 http://tvmate.icu:8080/60023165/94429242/215569
-#EXTINF:-1 tvg-name="X4 | Hailey Rose" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hailey Rose.png" group-title="泰语频道",X4 | Hailey Rose
-http://tvmate.icu:8080/C4Ft1d/042942/215569
-#EXTINF:-1 tvg-name="X4 | Haley Reed" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Haley Reed.png" group-title="泰语频道",X4 | Haley Reed
-http://tvmate.icu:8080/60023165/94429242/215570
-#EXTINF:-1 tvg-name="X4 | Handjob" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Handjob.png" group-title="泰语频道",X4 | Handjob
-http://tvmate.icu:8080/C4Ft1d/042942/215571
 #EXTINF:-1 tvg-name="X4 | Handjob" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Handjob.png" group-title="泰语频道",X4 | Handjob
 http://tvmate.icu:8080/60023165/94429242/215571
+#EXTINF:-1 tvg-name="X4 | Handjob" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Handjob.png" group-title="泰语频道",X4 | Handjob
+http://tvmate.icu:8080/C4Ft1d/042942/215571
 #EXTINF:-1 tvg-name="X4 | Hardcore" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hardcore.png" group-title="泰语频道",X4 | Hardcore
 http://tvmate.icu:8080/60023165/94429242/215572
+#EXTINF:-1 tvg-name="X4 | Hazel Moore" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hazel Moore.png" group-title="泰语频道",X4 | Hazel Moore
+http://tvmate.icu:8080/60023165/94429242/215573
 #EXTINF:-1 tvg-name="X4 | Hazel Moore" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hazel Moore.png" group-title="泰语频道",X4 | Hazel Moore
 http://tvmate.icu:8080/C4Ft1d/042942/215573
 #EXTINF:-1 tvg-name="X4 | Hentai" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hentai.png" group-title="泰语频道",X4 | Hentai
@@ -2118,49 +2102,47 @@ http://tvmate.icu:8080/C4Ft1d/042942/215579
 #EXTINF:-1 tvg-name="X4 | Hot Wife XXX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hot Wife XXX.png" group-title="泰语频道",X4 | Hot Wife XXX
 http://tvmate.icu:8080/60023165/94429242/215580
 #EXTINF:-1 tvg-name="X4 | Hung Young Brit" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hung Young Brit.png" group-title="泰语频道",X4 | Hung Young Brit
-http://tvmate.icu:8080/C4Ft1d/042942/215581
-#EXTINF:-1 tvg-name="X4 | Hung Young Brit" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hung Young Brit.png" group-title="泰语频道",X4 | Hung Young Brit
 http://tvmate.icu:8080/60023165/94429242/215581
+#EXTINF:-1 tvg-name="X4 | Hung Young Brit" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Hung Young Brit.png" group-title="泰语频道",X4 | Hung Young Brit
+http://tvmate.icu:8080/C4Ft1d/042942/215581
 #EXTINF:-1 tvg-name="X4 | Janice Griffith" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Janice Griffith.png" group-title="泰语频道",X4 | Janice Griffith
 http://tvmate.icu:8080/60023165/94429242/215582
 #EXTINF:-1 tvg-name="X4 | Japan Uncensored" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Japan Uncensored.png" group-title="泰语频道",X4 | Japan Uncensored
 http://tvmate.icu:8080/60023165/94429242/215583
 #EXTINF:-1 tvg-name="X4 | Japan Uncensored" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Japan Uncensored.png" group-title="泰语频道",X4 | Japan Uncensored
 http://tvmate.icu:8080/C4Ft1d/042942/215583
+#EXTINF:-1 tvg-name="X4 | Jays Pov" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jays Pov.png" group-title="泰语频道",X4 | Jays Pov
+http://tvmate.icu:8080/60023165/94429242/215584
 #EXTINF:-1 tvg-name="X4 | Jenny Lux" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jenny Lux.png" group-title="泰语频道",X4 | Jenny Lux
 http://tvmate.icu:8080/60023165/94429242/215585
 #EXTINF:-1 tvg-name="X4 | Jenny Lux" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jenny Lux.png" group-title="泰语频道",X4 | Jenny Lux
 http://tvmate.icu:8080/C4Ft1d/042942/215585
 #EXTINF:-1 tvg-name="X4 | Jessa Rhodes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jessa Rhodes.png" group-title="泰语频道",X4 | Jessa Rhodes
 http://tvmate.icu:8080/60023165/94429242/215586
-#EXTINF:-1 tvg-name="X4 | Jewelz Blu" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jewelz Blu.png" group-title="泰语频道",X4 | Jewelz Blu
-http://tvmate.icu:8080/60023165/94429242/215587
 #EXTINF:-1 tvg-name="X4 | Jia Lissa" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Jia Lissa.png" group-title="泰语频道",X4 | Jia Lissa
 http://tvmate.icu:8080/60023165/94429242/215588
 #EXTINF:-1 tvg-name="X4 | John and Sky" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | John and Sky.png" group-title="泰语频道",X4 | John and Sky
 http://tvmate.icu:8080/60023165/94429242/215590
 #EXTINF:-1 tvg-name="X4 | Julie Jess" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Julie Jess.png" group-title="泰语频道",X4 | Julie Jess
-http://tvmate.icu:8080/60023165/94429242/215591
-#EXTINF:-1 tvg-name="X4 | Julie Jess" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Julie Jess.png" group-title="泰语频道",X4 | Julie Jess
 http://tvmate.icu:8080/C4Ft1d/042942/215591
+#EXTINF:-1 tvg-name="X4 | Julie Jess" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Julie Jess.png" group-title="泰语频道",X4 | Julie Jess
+http://tvmate.icu:8080/60023165/94429242/215591
+#EXTINF:-1 tvg-name="X4 | Kagney Linn Karter" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kagney Linn Karter.png" group-title="泰语频道",X4 | Kagney Linn Karter
+http://tvmate.icu:8080/60023165/94429242/215592
 #EXTINF:-1 tvg-name="X4 | Karlee Grey" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Karlee Grey.png" group-title="泰语频道",X4 | Karlee Grey
 http://tvmate.icu:8080/60023165/94429242/215593
 #EXTINF:-1 tvg-name="X4 | Karlee Grey" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Karlee Grey.png" group-title="泰语频道",X4 | Karlee Grey
 http://tvmate.icu:8080/C4Ft1d/042942/215593
 #EXTINF:-1 tvg-name="X4 | Kate Koss" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kate Koss.png" group-title="泰语频道",X4 | Kate Koss
-http://tvmate.icu:8080/C4Ft1d/042942/215595
-#EXTINF:-1 tvg-name="X4 | Kate Koss" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kate Koss.png" group-title="泰语频道",X4 | Kate Koss
 http://tvmate.icu:8080/60023165/94429242/215595
+#EXTINF:-1 tvg-name="X4 | Kate Koss" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kate Koss.png" group-title="泰语频道",X4 | Kate Koss
+http://tvmate.icu:8080/C4Ft1d/042942/215595
 #EXTINF:-1 tvg-name="X4 | Kelsi Monroe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kelsi Monroe.png" group-title="泰语频道",X4 | Kelsi Monroe
 http://tvmate.icu:8080/60023165/94429242/215597
 #EXTINF:-1 tvg-name="X4 | Kelsi Monroe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kelsi Monroe.png" group-title="泰语频道",X4 | Kelsi Monroe
 http://tvmate.icu:8080/C4Ft1d/042942/215597
 #EXTINF:-1 tvg-name="X4 | Kendra Lust" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kendra Lust.png" group-title="泰语频道",X4 | Kendra Lust
 http://tvmate.icu:8080/60023165/94429242/215598
-#EXTINF:-1 tvg-name="X4 | Kenna James" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kenna James.png" group-title="泰语频道",X4 | Kenna James
-http://tvmate.icu:8080/60023165/94429242/215599
-#EXTINF:-1 tvg-name="X4 | Kenna James" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kenna James.png" group-title="泰语频道",X4 | Kenna James
-http://tvmate.icu:8080/C4Ft1d/042942/215599
 #EXTINF:-1 tvg-name="X4 | Kenzie Reeves" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kenzie Reeves.png" group-title="泰语频道",X4 | Kenzie Reeves
 http://tvmate.icu:8080/60023165/94429242/215601
 #EXTINF:-1 tvg-name="X4 | Kenzie Reeves" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kenzie Reeves.png" group-title="泰语频道",X4 | Kenzie Reeves
@@ -2172,37 +2154,41 @@ http://tvmate.icu:8080/C4Ft1d/042942/215603
 #EXTINF:-1 tvg-name="X4 | Klinky Spa" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Klinky Spa.png" group-title="泰语频道",X4 | Klinky Spa
 http://tvmate.icu:8080/60023165/94429242/215604
 #EXTINF:-1 tvg-name="X4 | Kourtney Love" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kourtney Love.png" group-title="泰语频道",X4 | Kourtney Love
-http://tvmate.icu:8080/60023165/94429242/215605
-#EXTINF:-1 tvg-name="X4 | Kourtney Love" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kourtney Love.png" group-title="泰语频道",X4 | Kourtney Love
 http://tvmate.icu:8080/C4Ft1d/042942/215605
 #EXTINF:-1 tvg-name="X4 | Kylie Rocket" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kylie Rocket.png" group-title="泰语频道",X4 | Kylie Rocket
 http://tvmate.icu:8080/60023165/94429242/215607
 #EXTINF:-1 tvg-name="X4 | Kylie Rocket" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Kylie Rocket.png" group-title="泰语频道",X4 | Kylie Rocket
 http://tvmate.icu:8080/C4Ft1d/042942/215607
-#EXTINF:-1 tvg-name="X4 | Lana Rhoades" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lana Rhoades.png" group-title="泰语频道",X4 | Lana Rhoades
-http://tvmate.icu:8080/60023165/94429242/215610
-#EXTINF:-1 tvg-name="X4 | LaSirena69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | LaSirena69.png" group-title="泰语频道",X4 | LaSirena69
-http://tvmate.icu:8080/C4Ft1d/042942/215611
+#EXTINF:-1 tvg-name="X4 | Lacy Lennon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lacy Lennon.png" group-title="泰语频道",X4 | Lacy Lennon
+http://tvmate.icu:8080/60023165/94429242/215609
+#EXTINF:-1 tvg-name="X4 | Lacy Lennon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lacy Lennon.png" group-title="泰语频道",X4 | Lacy Lennon
+http://tvmate.icu:8080/C4Ft1d/042942/215609
 #EXTINF:-1 tvg-name="X4 | LaSirena69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | LaSirena69.png" group-title="泰语频道",X4 | LaSirena69
 http://tvmate.icu:8080/60023165/94429242/215611
+#EXTINF:-1 tvg-name="X4 | LaSirena69" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | LaSirena69.png" group-title="泰语频道",X4 | LaSirena69
+http://tvmate.icu:8080/C4Ft1d/042942/215611
 #EXTINF:-1 tvg-name="X4 | Latin Leche" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Latin Leche.png" group-title="泰语频道",X4 | Latin Leche
 http://tvmate.icu:8080/60023165/94429242/215612
 #EXTINF:-1 tvg-name="X4 | Latina Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Latina Milf.png" group-title="泰语频道",X4 | Latina Milf
-http://tvmate.icu:8080/C4Ft1d/042942/215613
-#EXTINF:-1 tvg-name="X4 | Latina Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Latina Milf.png" group-title="泰语频道",X4 | Latina Milf
 http://tvmate.icu:8080/60023165/94429242/215613
+#EXTINF:-1 tvg-name="X4 | Latina Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Latina Milf.png" group-title="泰语频道",X4 | Latina Milf
+http://tvmate.icu:8080/C4Ft1d/042942/215613
 #EXTINF:-1 tvg-name="X4 | Leah Gotti" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Leah Gotti.png" group-title="泰语频道",X4 | Leah Gotti
 http://tvmate.icu:8080/60023165/94429242/215616
 #EXTINF:-1 tvg-name="X4 | Leana Lovings" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Leana Lovings.png" group-title="泰语频道",X4 | Leana Lovings
-http://tvmate.icu:8080/60023165/94429242/215617
-#EXTINF:-1 tvg-name="X4 | Leana Lovings" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Leana Lovings.png" group-title="泰语频道",X4 | Leana Lovings
 http://tvmate.icu:8080/C4Ft1d/042942/215617
+#EXTINF:-1 tvg-name="X4 | Leana Lovings" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Leana Lovings.png" group-title="泰语频道",X4 | Leana Lovings
+http://tvmate.icu:8080/60023165/94429242/215617
 #EXTINF:-1 tvg-name="X4 | Lela Star" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lela Star.png" group-title="泰语频道",X4 | Lela Star
 http://tvmate.icu:8080/60023165/94429242/215618
 #EXTINF:-1 tvg-name="X4 | Lena Paul" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lena Paul.png" group-title="泰语频道",X4 | Lena Paul
 http://tvmate.icu:8080/60023165/94429242/215619
 #EXTINF:-1 tvg-name="X4 | Lena Paul" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lena Paul.png" group-title="泰语频道",X4 | Lena Paul
 http://tvmate.icu:8080/C4Ft1d/042942/215619
+#EXTINF:-1 tvg-name="X4 | Lesbian" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lesbian.png" group-title="泰语频道",X4 | Lesbian
+http://tvmate.icu:8080/60023165/94429242/215621
+#EXTINF:-1 tvg-name="X4 | Lesbian" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lesbian.png" group-title="泰语频道",X4 | Lesbian
+http://tvmate.icu:8080/C4Ft1d/042942/215621
 #EXTINF:-1 tvg-name="X4 | LetsDoelt" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | LetsDoelt.png" group-title="泰语频道",X4 | LetsDoelt
 http://tvmate.icu:8080/60023165/94429242/215622
 #EXTINF:-1 tvg-name="X4 | LetsDoelt Bonus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | LetsDoelt Bonus.png" group-title="泰语频道",X4 | LetsDoelt Bonus
@@ -2215,8 +2201,6 @@ http://tvmate.icu:8080/60023165/94429242/215624
 http://tvmate.icu:8080/60023165/94429242/215625
 #EXTINF:-1 tvg-name="X4 | Lexi Luna" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lexi Luna.png" group-title="泰语频道",X4 | Lexi Luna
 http://tvmate.icu:8080/C4Ft1d/042942/215625
-#EXTINF:-1 tvg-name="X4 | Lily Lou" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Lily Lou.png" group-title="泰语频道",X4 | Lily Lou
-http://tvmate.icu:8080/60023165/94429242/215626
 #EXTINF:-1 tvg-name="X4 | Little Caprice" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Little Caprice.png" group-title="泰语频道",X4 | Little Caprice
 http://tvmate.icu:8080/60023165/94429242/215627
 #EXTINF:-1 tvg-name="X4 | Little Caprice" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Little Caprice.png" group-title="泰语频道",X4 | Little Caprice
@@ -2224,9 +2208,9 @@ http://tvmate.icu:8080/C4Ft1d/042942/215627
 #EXTINF:-1 tvg-name="X4 | Little Tina" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Little Tina.png" group-title="泰语频道",X4 | Little Tina
 http://tvmate.icu:8080/60023165/94429242/215628
 #EXTINF:-1 tvg-name="X4 | Littlebuffbabe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Littlebuffbabe.png" group-title="泰语频道",X4 | Littlebuffbabe
-http://tvmate.icu:8080/C4Ft1d/042942/215629
-#EXTINF:-1 tvg-name="X4 | Littlebuffbabe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Littlebuffbabe.png" group-title="泰语频道",X4 | Littlebuffbabe
 http://tvmate.icu:8080/60023165/94429242/215629
+#EXTINF:-1 tvg-name="X4 | Littlebuffbabe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Littlebuffbabe.png" group-title="泰语频道",X4 | Littlebuffbabe
+http://tvmate.icu:8080/C4Ft1d/042942/215629
 #EXTINF:-1 tvg-name="X4 | Loliiiiipop99" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Loliiiiipop99.png" group-title="泰语频道",X4 | Loliiiiipop99
 http://tvmate.icu:8080/60023165/94429242/215630
 #EXTINF:-1 tvg-name="X4 | Loly Lips" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Loly Lips.png" group-title="泰语频道",X4 | Loly Lips
@@ -2243,6 +2227,8 @@ http://tvmate.icu:8080/C4Ft1d/042942/215633
 http://tvmate.icu:8080/60023165/94429242/215634
 #EXTINF:-1 tvg-name="X4 | Luna Roulette" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Luna Roulette.png" group-title="泰语频道",X4 | Luna Roulette
 http://tvmate.icu:8080/C4Ft1d/042942/215635
+#EXTINF:-1 tvg-name="X4 | Luna Star" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Luna Star.png" group-title="泰语频道",X4 | Luna Star
+http://tvmate.icu:8080/60023165/94429242/215636
 #EXTINF:-1 tvg-name="X4 | Luxury Girl" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Luxury Girl.png" group-title="泰语频道",X4 | Luxury Girl
 http://tvmate.icu:8080/60023165/94429242/215637
 #EXTINF:-1 tvg-name="X4 | Luxury Girl" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Luxury Girl.png" group-title="泰语频道",X4 | Luxury Girl
@@ -2261,10 +2247,6 @@ http://tvmate.icu:8080/60023165/94429242/215641
 http://tvmate.icu:8080/C4Ft1d/042942/215641
 #EXTINF:-1 tvg-name="X4 | MartinPaola" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MartinPaola.png" group-title="泰语频道",X4 | MartinPaola
 http://tvmate.icu:8080/60023165/94429242/215642
-#EXTINF:-1 tvg-name="X4 | Massage" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Massage.png" group-title="泰语频道",X4 | Massage
-http://tvmate.icu:8080/60023165/94429242/215643
-#EXTINF:-1 tvg-name="X4 | Massage" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Massage.png" group-title="泰语频道",X4 | Massage
-http://tvmate.icu:8080/C4Ft1d/042942/215643
 #EXTINF:-1 tvg-name="X4 | Mature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mature.png" group-title="泰语频道",X4 | Mature
 http://tvmate.icu:8080/60023165/94429242/215645
 #EXTINF:-1 tvg-name="X4 | Mature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mature.png" group-title="泰语频道",X4 | Mature
@@ -2295,20 +2277,22 @@ http://tvmate.icu:8080/60023165/94429242/215654
 http://tvmate.icu:8080/60023165/94429242/215655
 #EXTINF:-1 tvg-name="X4 | Milana Milka" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Milana Milka.png" group-title="泰语频道",X4 | Milana Milka
 http://tvmate.icu:8080/C4Ft1d/042942/215655
-#EXTINF:-1 tvg-name="X4 | Milf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Milf.png" group-title="泰语频道",X4 | Milf
-http://tvmate.icu:8080/60023165/94429242/215656
 #EXTINF:-1 tvg-name="X4 | Milfed" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Milfed.png" group-title="泰语频道",X4 | Milfed
 http://tvmate.icu:8080/60023165/94429242/215657
 #EXTINF:-1 tvg-name="X4 | Milfed" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Milfed.png" group-title="泰语频道",X4 | Milfed
 http://tvmate.icu:8080/C4Ft1d/042942/215657
 #EXTINF:-1 tvg-name="X4 | Mini Diva" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mini Diva.png" group-title="泰语频道",X4 | Mini Diva
 http://tvmate.icu:8080/60023165/94429242/215658
+#EXTINF:-1 tvg-name="X4 | Mira David" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mira David.png" group-title="泰语频道",X4 | Mira David
+http://tvmate.icu:8080/C4Ft1d/042942/215659
+#EXTINF:-1 tvg-name="X4 | Mira David" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mira David.png" group-title="泰语频道",X4 | Mira David
+http://tvmate.icu:8080/60023165/94429242/215659
+#EXTINF:-1 tvg-name="X4 | Mirrari Hub" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mirrari Hub.png" group-title="泰语频道",X4 | Mirrari Hub
+http://tvmate.icu:8080/60023165/94429242/215660
 #EXTINF:-1 tvg-name="X4 | Miss Ary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Miss Ary.png" group-title="泰语频道",X4 | Miss Ary
 http://tvmate.icu:8080/60023165/94429242/215661
 #EXTINF:-1 tvg-name="X4 | Miss Ary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Miss Ary.png" group-title="泰语频道",X4 | Miss Ary
 http://tvmate.icu:8080/C4Ft1d/042942/215661
-#EXTINF:-1 tvg-name="X4 | Miss Savage" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Miss Savage.png" group-title="泰语频道",X4 | Miss Savage
-http://tvmate.icu:8080/60023165/94429242/215662
 #EXTINF:-1 tvg-name="X4 | Missionary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Missionary.png" group-title="泰语频道",X4 | Missionary
 http://tvmate.icu:8080/60023165/94429242/215663
 #EXTINF:-1 tvg-name="X4 | Missionary" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Missionary.png" group-title="泰语频道",X4 | Missionary
@@ -2323,12 +2307,10 @@ http://tvmate.icu:8080/C4Ft1d/042942/215665
 http://tvmate.icu:8080/60023165/94429242/215666
 #EXTINF:-1 tvg-name="X4 | Molly Moon" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Molly Moon.png" group-title="泰语频道",X4 | Molly Moon
 http://tvmate.icu:8080/C4Ft1d/042942/215667
-#EXTINF:-1 tvg-name="X4 | Molly Pills" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Molly Pills.png" group-title="泰语频道",X4 | Molly Pills
-http://tvmate.icu:8080/60023165/94429242/215668
-#EXTINF:-1 tvg-name="X4 | MollyRedWolf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MollyRedWolf.png" group-title="泰语频道",X4 | MollyRedWolf
-http://tvmate.icu:8080/60023165/94429242/215669
 #EXTINF:-1 tvg-name="X4 | MollyRedWolf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MollyRedWolf.png" group-title="泰语频道",X4 | MollyRedWolf
 http://tvmate.icu:8080/C4Ft1d/042942/215669
+#EXTINF:-1 tvg-name="X4 | MollyRedWolf" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MollyRedWolf.png" group-title="泰语频道",X4 | MollyRedWolf
+http://tvmate.icu:8080/60023165/94429242/215669
 #EXTINF:-1 tvg-name="X4 | Mom Lover" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mom Lover.png" group-title="泰语频道",X4 | Mom Lover
 http://tvmate.icu:8080/60023165/94429242/215670
 #EXTINF:-1 tvg-name="X4 | Mom Tight" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Mom Tight.png" group-title="泰语频道",X4 | Mom Tight
@@ -2339,6 +2321,12 @@ http://tvmate.icu:8080/C4Ft1d/042942/215671
 http://tvmate.icu:8080/60023165/94429242/215672
 #EXTINF:-1 tvg-name="X4 | Moms Teach Sex" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Moms Teach Sex.png" group-title="泰语频道",X4 | Moms Teach Sex
 http://tvmate.icu:8080/60023165/94429242/215674
+#EXTINF:-1 tvg-name="X4 | Msbreewc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Msbreewc.png" group-title="泰语频道",X4 | Msbreewc
+http://tvmate.icu:8080/60023165/94429242/215675
+#EXTINF:-1 tvg-name="X4 | Msbreewc" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Msbreewc.png" group-title="泰语频道",X4 | Msbreewc
+http://tvmate.icu:8080/C4Ft1d/042942/215675
+#EXTINF:-1 tvg-name="X4 | My BF Doesnt Know" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | My BF Doesnt Know.png" group-title="泰语频道",X4 | My BF Doesnt Know
+http://tvmate.icu:8080/60023165/94429242/215676
 #EXTINF:-1 tvg-name="X4 | My Friends Hot Mom" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | My Friends Hot Mom.png" group-title="泰语频道",X4 | My Friends Hot Mom
 http://tvmate.icu:8080/60023165/94429242/215677
 #EXTINF:-1 tvg-name="X4 | My Friends Hot Mom" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | My Friends Hot Mom.png" group-title="泰语频道",X4 | My Friends Hot Mom
@@ -2349,14 +2337,14 @@ http://tvmate.icu:8080/60023165/94429242/215678
 http://tvmate.icu:8080/60023165/94429242/215679
 #EXTINF:-1 tvg-name="X4 | MyAnny" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MyAnny.png" group-title="泰语频道",X4 | MyAnny
 http://tvmate.icu:8080/C4Ft1d/042942/215679
+#EXTINF:-1 tvg-name="X4 | MYLF" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | MYLF.png" group-title="泰语频道",X4 | MYLF
+http://tvmate.icu:8080/60023165/94429242/215680
 #EXTINF:-1 tvg-name="X4 | Nadja Rey" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Nadja Rey.png" group-title="泰语频道",X4 | Nadja Rey
 http://tvmate.icu:8080/60023165/94429242/215682
 #EXTINF:-1 tvg-name="X4 | Natasha Nice" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Natasha Nice.png" group-title="泰语频道",X4 | Natasha Nice
 http://tvmate.icu:8080/60023165/94429242/215683
 #EXTINF:-1 tvg-name="X4 | Natasha Nice" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Natasha Nice.png" group-title="泰语频道",X4 | Natasha Nice
 http://tvmate.icu:8080/C4Ft1d/042942/215683
-#EXTINF:-1 tvg-name="X4 | New Sensations" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | New Sensations.png" group-title="泰语频道",X4 | New Sensations
-http://tvmate.icu:8080/60023165/94429242/215684
 #EXTINF:-1 tvg-name="X4 | Next Door Taboo" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Next Door Taboo.png" group-title="泰语频道",X4 | Next Door Taboo
 http://tvmate.icu:8080/60023165/94429242/215688
 #EXTINF:-1 tvg-name="X4 | Next Door Twink" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Next Door Twink.png" group-title="泰语频道",X4 | Next Door Twink
@@ -2372,11 +2360,15 @@ http://tvmate.icu:8080/C4Ft1d/042942/215693
 #EXTINF:-1 tvg-name="X4 | Nubiles" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Nubiles.png" group-title="泰语频道",X4 | Nubiles
 http://tvmate.icu:8080/60023165/94429242/215694
 #EXTINF:-1 tvg-name="X4 | Nyna Ferragni" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Nyna Ferragni.png" group-title="泰语频道",X4 | Nyna Ferragni
-http://tvmate.icu:8080/C4Ft1d/042942/215695
-#EXTINF:-1 tvg-name="X4 | Nyna Ferragni" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Nyna Ferragni.png" group-title="泰语频道",X4 | Nyna Ferragni
 http://tvmate.icu:8080/60023165/94429242/215695
+#EXTINF:-1 tvg-name="X4 | Nyna Ferragni" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Nyna Ferragni.png" group-title="泰语频道",X4 | Nyna Ferragni
+http://tvmate.icu:8080/C4Ft1d/042942/215695
 #EXTINF:-1 tvg-name="X4 | Paige Steele" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Paige Steele.png" group-title="泰语频道",X4 | Paige Steele
 http://tvmate.icu:8080/60023165/94429242/215696
+#EXTINF:-1 tvg-name="X4 | Pamsnusnu" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pamsnusnu.png" group-title="泰语频道",X4 | Pamsnusnu
+http://tvmate.icu:8080/60023165/94429242/215697
+#EXTINF:-1 tvg-name="X4 | Pamsnusnu" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pamsnusnu.png" group-title="泰语频道",X4 | Pamsnusnu
+http://tvmate.icu:8080/C4Ft1d/042942/215697
 #EXTINF:-1 tvg-name="X4 | Pantyhose" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pantyhose.png" group-title="泰语频道",X4 | Pantyhose
 http://tvmate.icu:8080/60023165/94429242/215698
 #EXTINF:-1 tvg-name="X4 | Parasited" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Parasited.png" group-title="泰语频道",X4 | Parasited
@@ -2389,10 +2381,12 @@ http://tvmate.icu:8080/60023165/94429242/215700
 http://tvmate.icu:8080/60023165/94429242/215703
 #EXTINF:-1 tvg-name="X4 | Perv Mom" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Perv Mom.png" group-title="泰语频道",X4 | Perv Mom
 http://tvmate.icu:8080/C4Ft1d/042942/215703
-#EXTINF:-1 tvg-name="X4 | Peter Fever" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Peter Fever.png" group-title="泰语频道",X4 | Peter Fever
-http://tvmate.icu:8080/C4Ft1d/042942/215705
+#EXTINF:-1 tvg-name="X4 | Perv Nana" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Perv Nana.png" group-title="泰语频道",X4 | Perv Nana
+http://tvmate.icu:8080/60023165/94429242/215704
 #EXTINF:-1 tvg-name="X4 | Peter Fever" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Peter Fever.png" group-title="泰语频道",X4 | Peter Fever
 http://tvmate.icu:8080/60023165/94429242/215705
+#EXTINF:-1 tvg-name="X4 | Peter Fever" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Peter Fever.png" group-title="泰语频道",X4 | Peter Fever
+http://tvmate.icu:8080/C4Ft1d/042942/215705
 #EXTINF:-1 tvg-name="X4 | Peters Kingdom" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Peters Kingdom.png" group-title="泰语频道",X4 | Peters Kingdom
 http://tvmate.icu:8080/60023165/94429242/215706
 #EXTINF:-1 tvg-name="X4 | Pinkloving" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pinkloving.png" group-title="泰语频道",X4 | Pinkloving
@@ -2409,10 +2403,12 @@ http://tvmate.icu:8080/C4Ft1d/042942/215709
 http://tvmate.icu:8080/60023165/94429242/215711
 #EXTINF:-1 tvg-name="X4 | Porn Pros" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Porn Pros.png" group-title="泰语频道",X4 | Porn Pros
 http://tvmate.icu:8080/C4Ft1d/042942/215711
-#EXTINF:-1 tvg-name="X4 | Princess Cum" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Princess Cum.png" group-title="泰语频道",X4 | Princess Cum
-http://tvmate.icu:8080/60023165/94429242/215713
+#EXTINF:-1 tvg-name="X4 | POV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | POV.png" group-title="泰语频道",X4 | POV
+http://tvmate.icu:8080/60023165/94429242/215712
 #EXTINF:-1 tvg-name="X4 | Princess Cum" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Princess Cum.png" group-title="泰语频道",X4 | Princess Cum
 http://tvmate.icu:8080/C4Ft1d/042942/215713
+#EXTINF:-1 tvg-name="X4 | Princess Cum" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Princess Cum.png" group-title="泰语频道",X4 | Princess Cum
+http://tvmate.icu:8080/60023165/94429242/215713
 #EXTINF:-1 tvg-name="X4 | Proberty Sex" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Proberty Sex.png" group-title="泰语频道",X4 | Proberty Sex
 http://tvmate.icu:8080/60023165/94429242/215714
 #EXTINF:-1 tvg-name="X4 | Public" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Public.png" group-title="泰语频道",X4 | Public
@@ -2427,6 +2423,10 @@ http://tvmate.icu:8080/60023165/94429242/215717
 http://tvmate.icu:8080/C4Ft1d/042942/215717
 #EXTINF:-1 tvg-name="X4 | Pure Pleasure" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pure Pleasure.png" group-title="泰语频道",X4 | Pure Pleasure
 http://tvmate.icu:8080/60023165/94429242/215718
+#EXTINF:-1 tvg-name="X4 | Purple Bitch" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Purple Bitch.png" group-title="泰语频道",X4 | Purple Bitch
+http://tvmate.icu:8080/60023165/94429242/215719
+#EXTINF:-1 tvg-name="X4 | Purple Bitch" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Purple Bitch.png" group-title="泰语频道",X4 | Purple Bitch
+http://tvmate.icu:8080/C4Ft1d/042942/215719
 #EXTINF:-1 tvg-name="X4 | Pussy Eating" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pussy Eating.png" group-title="泰语频道",X4 | Pussy Eating
 http://tvmate.icu:8080/60023165/94429242/215720
 #EXTINF:-1 tvg-name="X4 | Pussy Licking" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Pussy Licking.png" group-title="泰语频道",X4 | Pussy Licking
@@ -2441,16 +2441,20 @@ http://tvmate.icu:8080/C4Ft1d/042942/215723
 http://tvmate.icu:8080/60023165/94429242/215724
 #EXTINF:-1 tvg-name="X4 | Real Men Fuck" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Real Men Fuck.png" group-title="泰语频道",X4 | Real Men Fuck
 http://tvmate.icu:8080/60023165/94429242/215726
+#EXTINF:-1 tvg-name="X4 | Reality Dudes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Reality Dudes.png" group-title="泰语频道",X4 | Reality Dudes
+http://tvmate.icu:8080/60023165/94429242/215727
+#EXTINF:-1 tvg-name="X4 | Reality Dudes" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Reality Dudes.png" group-title="泰语频道",X4 | Reality Dudes
+http://tvmate.icu:8080/C4Ft1d/042942/215727
 #EXTINF:-1 tvg-name="X4 | Reality Junkies" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Reality Junkies.png" group-title="泰语频道",X4 | Reality Junkies
 http://tvmate.icu:8080/60023165/94429242/215728
+#EXTINF:-1 tvg-name="X4 | RealTelariLove" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | RealTelariLove.png" group-title="泰语频道",X4 | RealTelariLove
+http://tvmate.icu:8080/60023165/94429242/215730
 #EXTINF:-1 tvg-name="X4 | Red Head" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Red Head.png" group-title="泰语频道",X4 | Red Head
 http://tvmate.icu:8080/60023165/94429242/215731
 #EXTINF:-1 tvg-name="X4 | Red Head" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Red Head.png" group-title="泰语频道",X4 | Red Head
 http://tvmate.icu:8080/C4Ft1d/042942/215731
-#EXTINF:-1 tvg-name="X4 | Riley Reid" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Riley Reid.png" group-title="泰语频道",X4 | Riley Reid
-http://tvmate.icu:8080/C4Ft1d/042942/215733
-#EXTINF:-1 tvg-name="X4 | Riley Reid" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Riley Reid.png" group-title="泰语频道",X4 | Riley Reid
-http://tvmate.icu:8080/60023165/94429242/215733
+#EXTINF:-1 tvg-name="X4 | Reislin" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Reislin.png" group-title="泰语频道",X4 | Reislin
+http://tvmate.icu:8080/60023165/94429242/215732
 #EXTINF:-1 tvg-name="X4 | Rosie Rider" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Rosie Rider.png" group-title="泰语频道",X4 | Rosie Rider
 http://tvmate.icu:8080/60023165/94429242/215735
 #EXTINF:-1 tvg-name="X4 | Rosie Rider" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Rosie Rider.png" group-title="泰语频道",X4 | Rosie Rider
@@ -2471,14 +2475,14 @@ http://tvmate.icu:8080/60023165/94429242/215740
 http://tvmate.icu:8080/60023165/94429242/215741
 #EXTINF:-1 tvg-name="X4 | SecretsFilmed" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | SecretsFilmed.png" group-title="泰语频道",X4 | SecretsFilmed
 http://tvmate.icu:8080/C4Ft1d/042942/215741
+#EXTINF:-1 tvg-name="X4 | See Him Fuck" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | See Him Fuck.png" group-title="泰语频道",X4 | See Him Fuck
+http://tvmate.icu:8080/60023165/94429242/215742
 #EXTINF:-1 tvg-name="X4 | She Will Cheat" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | She Will Cheat.png" group-title="泰语频道",X4 | She Will Cheat
 http://tvmate.icu:8080/60023165/94429242/215744
 #EXTINF:-1 tvg-name="X4 | Sheena Ryder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Sheena Ryder.png" group-title="泰语频道",X4 | Sheena Ryder
 http://tvmate.icu:8080/60023165/94429242/215745
 #EXTINF:-1 tvg-name="X4 | Sheena Ryder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Sheena Ryder.png" group-title="泰语频道",X4 | Sheena Ryder
 http://tvmate.icu:8080/C4Ft1d/042942/215745
-#EXTINF:-1 tvg-name="X4 | Shinaryen" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Shinaryen.png" group-title="泰语频道",X4 | Shinaryen
-http://tvmate.icu:8080/60023165/94429242/215746
 #EXTINF:-1 tvg-name="X4 | Silvana Lee" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Silvana Lee.png" group-title="泰语频道",X4 | Silvana Lee
 http://tvmate.icu:8080/60023165/94429242/215747
 #EXTINF:-1 tvg-name="X4 | Silvana Lee" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Silvana Lee.png" group-title="泰语频道",X4 | Silvana Lee
@@ -2519,10 +2523,14 @@ http://tvmate.icu:8080/60023165/94429242/215760
 http://tvmate.icu:8080/60023165/94429242/215761
 #EXTINF:-1 tvg-name="X4 | Sweetheart Video" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Sweetheart Video.png" group-title="泰语频道",X4 | Sweetheart Video
 http://tvmate.icu:8080/C4Ft1d/042942/215761
+#EXTINF:-1 tvg-name="X4 | Sweeti Fox" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Sweeti Fox.png" group-title="泰语频道",X4 | Sweeti Fox
+http://tvmate.icu:8080/60023165/94429242/215762
 #EXTINF:-1 tvg-name="X4 | Syndicete" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Syndicete.png" group-title="泰语频道",X4 | Syndicete
 http://tvmate.icu:8080/60023165/94429242/215763
 #EXTINF:-1 tvg-name="X4 | Syndicete" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Syndicete.png" group-title="泰语频道",X4 | Syndicete
 http://tvmate.icu:8080/C4Ft1d/042942/215763
+#EXTINF:-1 tvg-name="X4 | Team Skeet" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Team Skeet.png" group-title="泰语频道",X4 | Team Skeet
+http://tvmate.icu:8080/60023165/94429242/215764
 #EXTINF:-1 tvg-name="X4 | Teen" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Teen.png" group-title="泰语频道",X4 | Teen
 http://tvmate.icu:8080/60023165/94429242/215765
 #EXTINF:-1 tvg-name="X4 | Teen" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Teen.png" group-title="泰语频道",X4 | Teen
@@ -2558,11 +2566,15 @@ http://tvmate.icu:8080/60023165/94429242/215775
 #EXTINF:-1 tvg-name="X4 | Twistys" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Twistys.png" group-title="泰语频道",X4 | Twistys
 http://tvmate.icu:8080/60023165/94429242/215776
 #EXTINF:-1 tvg-name="X4 | Up Close" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Up Close.png" group-title="泰语频道",X4 | Up Close
-http://tvmate.icu:8080/C4Ft1d/042942/215777
-#EXTINF:-1 tvg-name="X4 | Up Close" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Up Close.png" group-title="泰语频道",X4 | Up Close
 http://tvmate.icu:8080/60023165/94429242/215777
+#EXTINF:-1 tvg-name="X4 | Up Close" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Up Close.png" group-title="泰语频道",X4 | Up Close
+http://tvmate.icu:8080/C4Ft1d/042942/215777
 #EXTINF:-1 tvg-name="X4 | Valentina Nappi" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Valentina Nappi.png" group-title="泰语频道",X4 | Valentina Nappi
 http://tvmate.icu:8080/60023165/94429242/215778
+#EXTINF:-1 tvg-name="X4 | Valerica Steele" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Valerica Steele.png" group-title="泰语频道",X4 | Valerica Steele
+http://tvmate.icu:8080/60023165/94429242/215779
+#EXTINF:-1 tvg-name="X4 | Valerica Steele" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Valerica Steele.png" group-title="泰语频道",X4 | Valerica Steele
+http://tvmate.icu:8080/C4Ft1d/042942/215779
 #EXTINF:-1 tvg-name="X4 | Veronica Leal" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Veronica Leal.png" group-title="泰语频道",X4 | Veronica Leal
 http://tvmate.icu:8080/60023165/94429242/215780
 #EXTINF:-1 tvg-name="X4 | VibeWithMommy" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | VibeWithMommy.png" group-title="泰语频道",X4 | VibeWithMommy
@@ -2571,14 +2583,22 @@ http://tvmate.icu:8080/60023165/94429242/215781
 http://tvmate.icu:8080/C4Ft1d/042942/215781
 #EXTINF:-1 tvg-name="X4 | Vic Alouqua" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Vic Alouqua.png" group-title="泰语频道",X4 | Vic Alouqua
 http://tvmate.icu:8080/60023165/94429242/215782
-#EXTINF:-1 tvg-name="X4 | Violet Moreau" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Violet Moreau.png" group-title="泰语频道",X4 | Violet Moreau
-http://tvmate.icu:8080/C4Ft1d/042942/215785
+#EXTINF:-1 tvg-name="X4 | Vina Sky" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Vina Sky.png" group-title="泰语频道",X4 | Vina Sky
+http://tvmate.icu:8080/60023165/94429242/215783
+#EXTINF:-1 tvg-name="X4 | Vina Sky" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Vina Sky.png" group-title="泰语频道",X4 | Vina Sky
+http://tvmate.icu:8080/C4Ft1d/042942/215783
+#EXTINF:-1 tvg-name="X4 | Vintage" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Vintage.png" group-title="泰语频道",X4 | Vintage
+http://tvmate.icu:8080/60023165/94429242/215784
 #EXTINF:-1 tvg-name="X4 | Violet Moreau" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Violet Moreau.png" group-title="泰语频道",X4 | Violet Moreau
 http://tvmate.icu:8080/60023165/94429242/215785
-#EXTINF:-1 tvg-name="X4 | Willow Ryder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Willow Ryder.png" group-title="泰语频道",X4 | Willow Ryder
-http://tvmate.icu:8080/C4Ft1d/042942/215787
+#EXTINF:-1 tvg-name="X4 | Violet Moreau" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Violet Moreau.png" group-title="泰语频道",X4 | Violet Moreau
+http://tvmate.icu:8080/C4Ft1d/042942/215785
+#EXTINF:-1 tvg-name="X4 | Violet Myers" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Violet Myers.png" group-title="泰语频道",X4 | Violet Myers
+http://tvmate.icu:8080/60023165/94429242/215786
 #EXTINF:-1 tvg-name="X4 | Willow Ryder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Willow Ryder.png" group-title="泰语频道",X4 | Willow Ryder
 http://tvmate.icu:8080/60023165/94429242/215787
+#EXTINF:-1 tvg-name="X4 | Willow Ryder" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Willow Ryder.png" group-title="泰语频道",X4 | Willow Ryder
+http://tvmate.icu:8080/C4Ft1d/042942/215787
 #EXTINF:-1 tvg-name="X4 | Xev Bellringer" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Xev Bellringer.png" group-title="泰语频道",X4 | Xev Bellringer
 http://tvmate.icu:8080/60023165/94429242/215788
 #EXTINF:-1 tvg-name="X4 | Xreindeers" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/X4 | Xreindeers.png" group-title="泰语频道",X4 | Xreindeers
