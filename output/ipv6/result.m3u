@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/dongweiqi1/iptv123/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-03 18:48:07
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-04 06:48:25
 https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8?token=tmxk
 #EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/镜电视新闻台.png" group-title="☘️台湾频道",镜电视新闻台
 https://4gtv.dxjc.pp.ua/4gtv-4gtv075/index.m3u8?token=tmxk
